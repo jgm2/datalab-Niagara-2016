@@ -1,0 +1,73 @@
+#######################################################################
+#
+#  Make include file - for common constant info
+#  Added 1-17-02 by Kristin Tufte - remove the fact that some 
+#   directories use their own class path 
+#
+########################################################################
+
+
+#-------------------------------------
+# Specify all relative path info here
+#-------------------------------------
+export NIAGROOT    = /home/projects/disc/niagara/kristin/niagara_1_0
+export JAVA_HOME   = 
+export LIBDIR      = $(NIAGROOT)/lib
+
+#------------------------------------
+# programs used
+#------------------------------------
+export JAVAC       = $(JAVA_HOME)javac
+export JAVAH       = $(JAVA_HOME)javah
+export JAVA        = $(JAVA_HOME)java
+export JAR         = $(JAVA_HOME)jar
+export JAVADOC     = $(JAVA_HOME)javadoc
+
+#-------------------------------------
+#  Specify required libs here
+#-------------------------------------
+export XML4J          = $(LIBDIR)/xml4j.jar
+# get ridd of XML4J - used by CacheManager
+export CUPLIB        = $(LIBDIR)/cup_all.jar
+export REGEXPLIB     = $(LIBDIR)/gnu-regexp.jar
+export SWINGLIB      = $(LIBDIR)/swingall.jar
+export SAX	      = $(LIBDIR)/aelfred.jar
+# get rid of aelfred - used by IndexMgr
+export DIFF	      	= $(LIBDIR)/diff.jar
+export JFLEX		= $(LIBDIR)/JFlex.zip:$(LIBDIR)/JLex.jar
+export DIVA	    = $(LIBDIR)/diva.jar
+export JUNIT	    = $(LIBDIR)/junit.jar
+export DJAVA	    = $(LIBDIR)/djava.jar
+export HTMLLAYOUT   = $(LIBDIR)/htmllayout.jar
+export JETTY	    = $(LIBDIR)/com.mortbay.jetty.jar
+export SERVLET	    = $(LIBDIR)/javax.servlet.jar
+#export XERCES	    = /disk/hopper/projects/disc/niagara/install/xerces-1_4_4/xerces.jar
+export XERCES2      = /disk/hopper/projects/disc/niagara/install/xerces-2_0_1/xercesImpl.jar:/disk/hopper/projects/disc/niagara/install/xerces-2_0_1/xmlParserAPIs.jar
+export NIAGSRC     = $(NIAGROOT)/src
+export XMLGEN       = $(LIBDIR)/XMLGenerator.jar
+export JPCAP       = $(LIBDIR)/jpcap.jar
+
+#----------------
+#  Niagra libs
+#----------------
+
+#export OLDPARSELIB   = $(LIBDIR)/xml4j.old.jar
+#export COMMONLIB     = $(LIBDIR)/common.jar
+#export XMLQLPARSE    = $(LIBDIR)/xmlql_parser.jar
+#export LOGICALOPTREE = $(LIBDIR)/logicaloptree.jar
+#export QELIB         = $(LIBDIR)/qe.jar
+#export DMLIB         = $(LIBDIR)/dm.jar
+#export QBELIB1	      = $(LIBDIR)/qbe1.jar
+#export QBELIB2	      = $(LIBDIR)/qbe2.jar
+
+export CLASSPATH     = .:$(XERCES2):$(REGEXPLIB):$(CUPLIB):$(DIFF):$(DIVA):$(JUNIT):$(DJAVA):$(HTMLLAYOUT):$(JETTY):$(SERVLET):$(JFLEX):$(NIAGSRC):$(XMLGEN):$(SAX):$(XML5J):$(JPCAP)
+
+export DEBUG = -O
+export SOURCE = -source 1.4
+
+export JAVAFLAGS     = -classpath $(CLASSPATH)
+export JAVACFLAGS     = $(JAVAFLAGS) $(DEBUG) $(SOURCE)
+
+# local stuff
+APPLET_DIR = /p/niagara/public/html
+

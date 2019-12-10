@@ -1,0 +1,24 @@
+\BOOKMARK [1][-]{section.1}{Introduction}{}% 1
+\BOOKMARK [1][-]{section.2}{Frame Benefits}{}% 2
+\BOOKMARK [1][-]{section.3}{Use Cases}{}% 3
+\BOOKMARK [1][-]{section.4}{Theory of Frames}{}% 4
+\BOOKMARK [2][-]{subsection.4.1}{Framing of a Data Stream}{section.4}% 5
+\BOOKMARK [2][-]{subsection.4.2}{Properties of Framings}{section.4}% 6
+\BOOKMARK [2][-]{subsection.4.3}{Examples}{section.4}% 7
+\BOOKMARK [3][-]{subsubsection.4.3.1}{Notes}{subsection.4.3}% 8
+\BOOKMARK [2][-]{subsection.4.4}{Framing Function}{section.4}% 9
+\BOOKMARK [2][-]{subsection.4.5}{Filling Frames}{section.4}% 10
+\BOOKMARK [1][-]{section.5}{Implementation}{}% 11
+\BOOKMARK [1][-]{section.6}{Evaluation}{}% 12
+\BOOKMARK [1][-]{section.7}{Related Work}{}% 13
+\BOOKMARK [1][-]{section.8}{Conclusions}{}% 14
+\BOOKMARK [1][-]{section.9}{Acknowledgments}{}% 15
+\BOOKMARK [1][-]{section.10}{References}{}% 16
+\BOOKMARK [1][-]{appendix.A}{Cutting Room Floor}{}% 17
+\BOOKMARK [1][-]{appendix.B}{Frame Definition \(Dave/CIDR\)}{}% 18
+\BOOKMARK [1][-]{appendix.C}{Implementation Considerations \(CIDR\)}{}% 19
+\BOOKMARK [1][-]{appendix.D}{Related Work \(CIDR\)}{}% 20
+\BOOKMARK [1][-]{appendix.E}{sec:relatedwork-cidr}{}% 21
+\BOOKMARK [1][-]{appendix.F}{NiagaraST Implementation \(CIDR\)}{}% 22
+\BOOKMARK [1][-]{appendix.G}{Evaluation \(CIDR\)}{}% 23
+\BOOKMARK [1][-]{appendix.H}{Future Work \(CIDR\)}{}% 24

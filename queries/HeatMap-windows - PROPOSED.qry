@@ -1,0 +1,114 @@
+<?xml version="1.0"?>
+<!DOCTYPE plan SYSTEM "queryplan.dtd">
+
+<plan top="cons">
+
+<csvstream id="inputCsvstream"
+    file_name="D:/Heatmap-input/2nd-half_to_end-1800s - punctuated - 100B punc.csv"
+    attr_names="sid ts x y z v_v v_a vx vy vz ax ay az" 
+    attr_types="int TS int int int int int int int int int int int"
+/>
+
+<!--
+Sample data:
+88,13086643552201552,-2240,10200,337,471507,3820416,-7560,6169,2186,-5607,6801,4722
+-->
+
+<heatmapPreprocessForWindowsGridQuery id="heatmapPreprocessForWindowsGridQuery" input="inputCsvstream"
+    xgridattr="x"
+    ygridattr="y"
+/>
+
+<!--
+(REVISED OPERATOR)
+New schema of output stream:
+88,13086643552201552,x,y,337,471507,3820416,-7560,6169,2186,-5607,6801,4722,pid
+-->
+
+<longBucket id="positionalLongBucket" input="heatmapPreprocessForWindowsGridQuery"
+    range="1000000000000"
+    slide="1000000000000"
+    wintype="1"
+    winattr="ts"
+    start="13086639146403495"
+/>
+
+<!--
+New schema of output stream:
+88,13086643552201552,x,y,337,471507,3820416,-7560,6169,2186,-5607,6801,4722,pid,
+wid_from_positionalLongBucket, wid_to_positionalLongBucket
+-->
+
+<windowGridAverage id="cid" input="positionalLongBucket"
+    groupby="$pid"
+    xavgattr="x"
+    yavgattr="y"
+    xcells="16"
+    ycells="25"
+    corners="0 -33960 52483 33965"
+    wid="positionalLongBucket"
+/>
+
+<!--
+(NEW OPERATOR)
+New schema of output stream:
+pid, wid_from_positionalLongBucket, cid, c_midx, c_midy
+-->
+
+<bucket id="temporalBucket" input="cid"
+    range="60"
+    slide="1"
+    wintype="1"
+    winattr="wid_from_positionalLongBucket"
+    start="0"
+/>
+
+<!--
+New schema of output stream:
+pid, wid_from_positionalLongBucket, cid, c_midx, c_midy, wid_from_temporalBucket, wid_to_temporalBucket
+-->
+
+<windowCount id="cidInstancesPerCidPerPidPerTemporalWidCount" input="temporalBucket"
+    groupby="$pid $cid $c_midx $c_midy"
+    countattr="$cid"
+    wid="temporalBucket"
+/>
+
+<!--
+New schema of output stream:
+pid, cid, c_midx, c_midy, wid_from_temporalBucket, cidInstancesPerCidPerPidPerTemporalWidCount
+-->
+
+<expression id="tsAtUpdate" input="cidInstancesPerCidPerPidPerTemporalWidCount"
+    variables="wid_from_temporalBucket"
+    expression="result = 13086639146403495L + (wid_from_temporalBucket + 1) * 1000000000000L"
+/>
+
+<!--
+New schema of output stream:
+pid, cid, c_midx, c_midy, wid_from_temporalBucket, cidInstancesPerCidPerPidPerTemporalWidCount, tsAtUpdate
+-->
+
+<expression id="pidPercentTimeInCellPerWindow" input="tsAtUpdate" 
+    variables="wid_from_temporalBucket cidInstancesPerCidPerPidPerTemporalWidCount"
+    expression="result = 100 * ((wid_from_temporalBucket >= 59) ? ((double)cidInstancesPerCidPerPidPerTemporalWidCount / 60) : (cidInstancesPerCidPerPidPerTemporalWidCount / (double)(wid_from_temporalBucket + 1)))"
+/>
+
+<!--
+New schema of output stream:
+pid, cid, c_midx, c_midy, wid_from_temporalBucket, cidInstancesPerCidPerPidPerTemporalWidCount, tsAtUpdate, pidPercentTimeInCellPerWindow
+-->
+
+<construct id="cons" input="pidPercentTimeInCellPerWindow">
+<![CDATA[
+<output>
+    $tsAtUpdate
+    $pid
+    $c_midx
+    $c_midy
+    $pidPercentTimeInCellPerWindow
+</output>
+]]>
+</construct>
+
+</plan>

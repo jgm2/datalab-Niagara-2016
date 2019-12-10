@@ -1,0 +1,7 @@
+X:\git repository data\VLDB 2012 paper, 2013 workspace\niagarast\demo\niagara_server>RunServer-MSWindows.bat
+
+
+X:\git repository data\VLDB 2012 paper, 2013 workspace\niagarast\demo\niagara_server>RunSimple-MSWindows.bat -execute "D:\Heatmap-input\HeatMap-frames, TRUNCATED TO FRAMELENGTH OPERATOR.qry" -port 9050 > "D:\Query output\Frames,2nd-half_to_end-1800s - coarsened_by_100 - punctuated - 100B punc, TRUNCATED TO FRAMELENGTH OPERATOR.xml"
+
+
+X:\git repository data\VLDB 2012 paper, 2013 workspace\niagarast\demo\niagara_server>RunSimple-MSWindows.bat -execute "D:\Heatmap-input\FINAL testing\HeatMap-windows - PROPOSED,JOIN,Dave-fixes.qry" -port 9050 > "D:\Query output\FINAL testing\Windows,2nd-half_to_end-60s - punctuated - 100B punc, .1sec window.xml"

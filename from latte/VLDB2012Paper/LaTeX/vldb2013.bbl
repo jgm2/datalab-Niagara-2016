@@ -1,0 +1,171 @@
+\begin{thebibliography}{10}
+
+\bibitem{ACC+2003}
+D.~J. Abadi, D.~Carney, U.~\c{C}etintemel, M.~Cherniack, C.~Convey, S.~Lee,
+  M.~Stonebraker, N.~Tatbul, and S.~Zdonik.
+\newblock {Aurora: A New Model and Architecture for Data Stream Management}.
+\newblock {\em The VLDB Journal}, 12(2):120--139, 2003.
+
+\bibitem{ADG+2008}
+J.~Agrawal, Y.~Diao, D.~Gyllstrom, and N.~Immerman.
+\newblock {Efficient Pattern Matching over Event Streams}.
+\newblock In {\em Proc. Intl. Conference on Management of Data (SIGMOD)}, pages
+  147--160, 2008.
+
+\bibitem{ABW2006}
+A.~Arasu, S.~Babu, and J.~Widom.
+\newblock {The CQL Continuous Query Language: Semantic Foundations and Query
+  Execution}.
+\newblock {\em The VLDB Journal}, 15(2):121--142, 2006.
+
+\bibitem{BW2004}
+S.~Babu and J.~Widom.
+\newblock {StreaMon: An Adaptive Engine for Stream Query Processing}.
+\newblock In {\em Proc. Intl. Conf. on Management of Data (SIGMOD)}, pages
+  931--932, 2004.
+
+\bibitem{BDG+2007}
+L.~Brenna, A.~Demers, J.~Gehrke, M.~Hong, J.~Ossher, B.~Panda, M.~Riedewald,
+  M.~Thatte, and W.~White.
+\newblock {Cayuga: A High-Performance Event Processing Engine}.
+\newblock In {\em Proc. Intl. Conf. on Management of Data (SIGMOD)}, pages
+  1100--1102, 2007.
+
+\bibitem{CGM2010}
+B.~Chandramouli, J.~Goldstein, and D.~Maier.
+\newblock {High-Performance Dynamic Pattern Matching over Disordered Streams}.
+\newblock {\em Proc. VLDB Endow.}, 3(1--2):220--231, 2010.
+
+\bibitem{CKL+2010}
+C.~K. Chui, B.~Kao, E.~Lo, and D.~Cheung.
+\newblock {S-OLAP: An OLAP System for Analyzing Sequence Data}.
+\newblock In {\em Proc. Intl. Conf. on Management of Data (SIGMOD)}, pages
+  1131--1134, 2010.
+
+\bibitem{CJS+2003}
+C.~Cranor, T.~Johnson, O.~Spataschek, and V.~Shkapenyuk.
+\newblock {Gigascope: A Stream Database for Network Applications}.
+\newblock In {\em Proc. Intl. Conf. on Management of Data (SIGMOD)}, pages
+  647--651, 2003.
+
+\bibitem{GAE2006}
+T.~M. Ghanem, W.~G. Aref, and A.~K. Elmagarmid.
+\newblock {Exploiting Predicate-window Semantics over Data Streams}.
+\newblock {\em SIGMOD Rec.}, 35(1):3--8, 2006.
+
+\bibitem{GEL+2009}
+T.~M. Ghanem, A.~K. Elmagarmid, P.-A. Larson, and W.~G. Aref.
+\newblock {Supporting Views in Data Stream Management Systems}.
+\newblock {\em ACM Trans. Database Syst.}, 35(1):1:1--1:47, 2008.
+
+\bibitem{GPW2009}
+J.~Glaz, V.~Pozdnyakov, and S.~Wallenstein, editors.
+\newblock {\em {Scan Statistics: Methods and Applications}}.
+\newblock Birkh{\"a}user Boston, 2nd edition, 2009.
+
+\bibitem{GHA+2007}
+J.~Goldstein, M.~Hong, M.~Ali, and R.~Barga.
+\newblock {Consistency Sensitive Operators in CEDR}.
+\newblock Technical Report MSR-TR-2007-158, Microsoft Research, 2007.
+\newblock Available at
+  \url{http://research.microsoft.com/pubs/70517/tr-2007-158.pdf}.
+
+\bibitem{IP1995}
+Y.~E. Ioannidis and V.~Poosala.
+\newblock {Balancing Histogram Optimality and Practicality for Query Result
+  Size Estimation}.
+\newblock In {\em Proc. Intl. Conference on Management of Data (SIGMOD)}, pages
+  233--244, 1995.
+
+\bibitem{Kraemer2007}
+J.~Kr{\"a}mer.
+\newblock {\em Continuous Queries over Data Streams -- Semantics and
+  Implementation}.
+\newblock PhD thesis, University of Marburg, 2007.
+
+\bibitem{LMT+2005b}
+J.~Li, D.~Maier, K.~Tufte, V.~Papadimos, and P.~A. Tucker.
+\newblock {No Pane, No Gain: Efficient Evaluation of Sliding-Window Aggregates
+  over Data Streams}.
+\newblock {\em SIGMOD Rec.}, 34(1):39--44, 2005.
+
+\bibitem{LMT+2005a}
+J.~Li, D.~Maier, K.~Tufte, V.~Papadimos, and P.~A. Tucker.
+\newblock {Semantics and Evaluation Techniques for Window Aggregates in Data
+  Streams}.
+\newblock In {\em Proc. Intl. Conference on Management of Data (SIGMOD)}, pages
+  311--322, 2005.
+
+\bibitem{LTD+2008}
+J.~Li, K.~Tufte, D.~Maier, and V.~Papadimos.
+\newblock {AdaptWID: An Adaptive, Memory-Efficient Window Aggregation
+  Implementation}.
+\newblock {\em IEEE Internet Computing}, 12(6):22--29, 2008.
+
+\bibitem{LTS+2008}
+J.~Li, K.~Tufte, V.~Shkapenyuk, V.~Papadimos, T.~Johnson, and D.~Maier.
+\newblock {Out-of-Order Processing: A New Architecture for High-Performance
+  Stream Systems}.
+\newblock {\em Proc. VLDB Endow.}, 1(1):274--288, 2008.
+
+\bibitem{McReynolds2007}
+S.~McReynolds.
+\newblock Complex event processing in the real world.
+\newblock Oracle White Paper, September 2007.
+\newblock Available at
+  \url{http://www.oracle.com/us/technologies/soa/oracle-complex-event-processing-066421.pdf}.
+
+\bibitem{MSDN}
+{MSDN Library}.
+\newblock {Snapshot Windows}.
+\newblock Developers Guide (StreamInsight): Writing Query Templates in LINQ.
+\newblock Available at
+  \url{http://msdn.microsoft.com/en-us/library/ff518550.aspx}.
+
+\bibitem{NDM+2001}
+J.~Naughton, D.~Dewitt, D.~Maier, A.~Aboulnaga, J.~Chen, L.~Galanis, J.~Kang,
+  R.~Krishnamurthy, Q.~Luo, N.~Prakash, R.~Ramamurthy, J.~Shanmugasundaram,
+  F.~Tian, K.~Tufte, and S.~Viglas.
+\newblock {The Niagara Internet Query System}.
+\newblock {\em IEEE Data Eng. Bull.}, 24(2):27--33, 2001.
+
+\bibitem{PP2008}
+D.~Preston and P.~Protopapas.
+\newblock Searching for events in time series using scan statistics (poster).
+\newblock Initiative in Innovative Computing Open House, Harvard Univesity,
+  2008.
+\newblock Available at
+  \url{http://iic.seas.harvard.edu/posters/scanstats-poster.pdf}.
+
+\bibitem{RDS+2004}
+E.~A. Rundensteiner, L.~Ding, T.~Sutherland, Y.~Zhu, B.~Pielech, and N.~Mehta.
+\newblock {CAPE: Continuous Query Engine with Heterogeneous-Grained
+  Adaptivity}.
+\newblock In {\em Proc. Intl. Conf. on Very large Data Bases (VLDB)}, pages
+  1353--1356, 2004.
+
+\bibitem{SZZ+2004}
+R.~Sadri, C.~Zaniolo, A.~Zarkesh, and J.~Adibi.
+\newblock {Expressing and Optimizing Sequence Queries in Database Systems}.
+\newblock {\em ACM Trans. Database Syst.}, 29(2):282--318, 2004.
+
+\bibitem{TMS+2003}
+P.~A. Tucker, D.~Maier, T.~Sheard, and L.~Fegaras.
+\newblock {Exploiting Punctuation Semantics in Continuous Data Streams}.
+\newblock {\em IEEE Trans. on Knowl. and Data Eng.}, 15(3):555--568, 2003.
+
+\bibitem{WTB+2010}
+J.~Whiteneck, K.~Tufte, A.~Bhat, D.~Maier, and R.~J. Fern\'{a}ndez-Moctezuma.
+\newblock {Framing the Question: Detecting and Filling Spatial-Temporal
+  Windows}.
+\newblock In {\em Proc. Intl. Workshop on GeoStreaming (IWGS)}, pages 19--22,
+  2010.
+
+\bibitem{ZWC+2007}
+F.~Zemke, A.~Witkowski, M.~Cherniak, and L.~Colby.
+\newblock Pattern matching in sequences of rows.
+\newblock Draft SQL Change Proposal, March 2007.
+\newblock Available at
+  \url{http://www.cs.ucla.edu/classes/spring12/cs240B/notes/row-pattern-recogniton-11.pdf}.
+
+\end{thebibliography}

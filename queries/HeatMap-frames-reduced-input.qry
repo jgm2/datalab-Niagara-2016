@@ -1,0 +1,74 @@
+<?xml version="1.0"?>
+<!DOCTYPE plan SYSTEM "queryplan.dtd">
+
+<plan top="cons">
+
+<csvstream id="csvstream"
+    file_name="../../JGMtests/data/2nd-half_40000.csv"
+    attr_names="sid ts x y z v_v v_a vx vy vz ax ay az" 
+    attr_types="int TS int int int int int int int int int int int"
+/>
+
+<heatmapMapSidToPid id="heatmapMapSidToPid" input="csvstream"
+/>
+
+<gridFrame id="gridFrame" input="heatmapMapSidToPid"
+    groupby="pid"
+    timeattr="ts"
+    xgridattr="x"
+    ygridattr="y"
+    xcells="16"
+    ycells="25"
+    corners="0 -33960 52483 33965"
+/>
+
+<splitFrameOnWindowBoundary id="splitFrameOnWindowBoundary" input="gridFrame"
+    time1attr="st_ts"
+    time2attr="end_ts"
+    starttime="13086639146403495"
+    boundarygap="1000000000000"
+/>
+
+<longBucket id="longBucket" input="splitFrameOnWindowBoundary"
+    range="60000000000000"
+    slide="1000000000000"
+    wintype="1"
+    winattr="st_ts"
+    start="13086639146403495"
+/>
+
+<expression id="frameLength" input="longBucket"
+    variables="st_ts end_ts"
+    expression="result = end_ts - st_ts"
+/>
+
+<windowSum id="frameLengthSum" input="frameLength"
+    groupby="$pid $cid $c_midx $c_midy"
+    sumattr="$frameLength"
+    wid="longBucket"
+/>
+
+<expression id="pidPercentTimeInCellPerWindow" input="frameLengthSum" 
+    variables="wid_from_longBucket frameLengthSum"
+    expression="result = 100 * ((wid_from_longBucket / 59 >= 1) ? (double)((long)frameLengthSum / 60000000000000L) : (double)((long)frameLengthSum / ((double)((wid_from_longBucket + 1) / 60) * 60000000000000L)))"
+/>
+
+<expression id="tsAtUpdate" input="pidPercentTimeInCellPerWindow"
+    variables="wid_from_longBucket"
+    expression="result = 13086639146403495L + (wid_from_longBucket + 1) * 1000000000000L"
+/>
+
+<construct id="cons" input="tsAtUpdate">
+<![CDATA[
+<output>
+    $tsAtUpdate
+    $pid
+    $cid
+    $c_midx
+    $c_midy
+    $pidPercentTimeInCellPerWindow
+</output>
+]]>
+</construct>
+
+</plan>

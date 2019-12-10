@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<!DOCTYPE plan SYSTEM "queryplan.dtd">
+
+<plan top="cons">
+
+<csvstream id="csvstream"
+    file_name="../../JGMtests/data/2nd-half_artificial-2.csv"
+    attr_names="sid ts x y z v_v v_a vx vy vz ax ay az" 
+    attr_types="int TS int int int int int int int int int int int"
+/>
+
+<heatmapMapSidToPid id="heatmapMapSidToPid" input="csvstream"
+/>
+
+<gridFrame id="gridFrame" input="heatmapMapSidToPid"
+    groupby="pid"
+    timeattr="ts"
+    xgridattr="x"
+    ygridattr="y"
+    xcells="16"
+    ycells="25"
+    corners="0 -33960 52483 33965"
+/>
+
+
+
+<construct id="cons" input="gridFrame">
+<![CDATA[
+<output>
+    $sid
+    $pid
+    $x
+    $y
+    $cid
+    $st_ts
+    $end_ts
+</output>
+]]>
+</construct>
+
+</plan>

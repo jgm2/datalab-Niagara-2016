@@ -1,0 +1,2945 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<niagara:results>
+
+<output>
+   <tsAtUpdate>1.3121639146403496E16</tsAtUpdate>
+   <pid>1</pid>
+   <c_midx>14760.84375</c_midx>
+   <c_midy>5436.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.048255613348571424</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3103639146403496E16</tsAtUpdate>
+   <pid>9</pid>
+   <c_midx>18041.03125</c_midx>
+   <c_midy>-10865.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.1170949568235294</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3087639146403496E16</tsAtUpdate>
+   <pid>2</pid>
+   <c_midx>21321.21875</c_midx>
+   <c_midy>13587.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.0884941388</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3114639146403496E16</tsAtUpdate>
+   <pid>12</pid>
+   <c_midx>37722.15625</c_midx>
+   <c_midy>-8148.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.057511942371428565</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3111639146403496E16</tsAtUpdate>
+   <pid>9</pid>
+   <c_midx>21321.21875</c_midx>
+   <c_midy>-10865.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.018194885328</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3111639146403496E16</tsAtUpdate>
+   <pid>1</pid>
+   <c_midx>14760.84375</c_midx>
+   <c_midy>8153.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.0059137546079999995</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3121639146403496E16</tsAtUpdate>
+   <pid>2</pid>
+   <c_midx>21321.21875</c_midx>
+   <c_midy>13587.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.0025284039657142857</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3131639146403496E16</tsAtUpdate>
+   <pid>12</pid>
+   <c_midx>37722.15625</c_midx>
+   <c_midy>-10865.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.006267809062222222</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3142639146403496E16</tsAtUpdate>
+   <pid>9</pid>
+   <c_midx>18041.03125</c_midx>
+   <c_midy>-10865.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.035546683321428574</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3117639146403496E16</tsAtUpdate>
+   <pid>12</pid>
+   <c_midx>37722.15625</c_midx>
+   <c_midy>-8148.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.05194627052903225</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3120639146403496E16</tsAtUpdate>
+   <pid>1</pid>
+   <c_midx>14760.84375</c_midx>
+   <c_midy>5436.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.04967489609411764</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3102639146403496E16</tsAtUpdate>
+   <pid>9</pid>
+   <c_midx>18041.03125</c_midx>
+   <c_midy>-10865.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.12441339162500001</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3096639146403496E16</tsAtUpdate>
+   <pid>1</pid>
+   <c_midx>14760.84375</c_midx>
+   <c_midy>8153.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.014784386520000001</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3113639146403496E16</tsAtUpdate>
+   <pid>12</pid>
+   <c_midx>37722.15625</c_midx>
+   <c_midy>-8148.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.059642014311111116</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3116639146403496E16</tsAtUpdate>
+   <pid>1</pid>
+   <c_midx>14760.84375</c_midx>
+   <c_midy>5436.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.05629821557333333</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3146639146403496E16</tsAtUpdate>
+   <pid>9</pid>
+   <c_midx>21321.21875</c_midx>
+   <c_midy>-10865.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.00758120222</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3110639146403496E16</tsAtUpdate>
+   <pid>9</pid>
+   <c_midx>21321.21875</c_midx>
+   <c_midy>-10865.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.01895300555</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3146639146403496E16</tsAtUpdate>
+   <pid>1</pid>
+   <c_midx>14760.84375</c_midx>
+   <c_midy>8153.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.00246406442</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3110639146403496E16</tsAtUpdate>
+   <pid>1</pid>
+   <c_midx>14760.84375</c_midx>
+   <c_midy>8153.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.00616016105</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3106639146403496E16</tsAtUpdate>
+   <pid>9</pid>
+   <c_midx>21321.21875</c_midx>
+   <c_midy>-10865.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.022743606660000002</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3120639146403496E16</tsAtUpdate>
+   <pid>2</pid>
+   <c_midx>21321.21875</c_midx>
+   <c_midy>13587.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.002602768788235294</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3130639146403496E16</tsAtUpdate>
+   <pid>12</pid>
+   <c_midx>37722.15625</c_midx>
+   <c_midy>-10865.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.006410259268181818</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3106639146403496E16</tsAtUpdate>
+   <pid>1</pid>
+   <c_midx>14760.84375</c_midx>
+   <c_midy>8153.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.007392193260000001</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3141639146403496E16</tsAtUpdate>
+   <pid>9</pid>
+   <c_midx>18041.03125</c_midx>
+   <c_midy>-10865.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.036192986654545456</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3116639146403496E16</tsAtUpdate>
+   <pid>2</pid>
+   <c_midx>21321.21875</c_midx>
+   <c_midy>13587.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.002949804626666667</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3126639146403496E16</tsAtUpdate>
+   <pid>12</pid>
+   <c_midx>37722.15625</c_midx>
+   <c_midy>-10865.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.007051285195</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3119639146403496E16</tsAtUpdate>
+   <pid>1</pid>
+   <c_midx>14760.84375</c_midx>
+   <c_midy>5436.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.05118019597575757</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3101639146403496E16</tsAtUpdate>
+   <pid>9</pid>
+   <c_midx>18041.03125</c_midx>
+   <c_midy>-10865.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.13270761773333334</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3095639146403496E16</tsAtUpdate>
+   <pid>1</pid>
+   <c_midx>14760.84375</c_midx>
+   <c_midy>8153.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.016427096133333333</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3112639146403496E16</tsAtUpdate>
+   <pid>12</pid>
+   <c_midx>37722.15625</c_midx>
+   <c_midy>-8148.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.06193593793846154</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3115639146403496E16</tsAtUpdate>
+   <pid>1</pid>
+   <c_midx>14760.84375</c_midx>
+   <c_midy>5436.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.05823953335172414</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3145639146403496E16</tsAtUpdate>
+   <pid>9</pid>
+   <c_midx>21321.21875</c_midx>
+   <c_midy>-10865.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.007709697172881356</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3109639146403496E16</tsAtUpdate>
+   <pid>9</pid>
+   <c_midx>21321.21875</c_midx>
+   <c_midy>-10865.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.01977704926956522</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3145639146403496E16</tsAtUpdate>
+   <pid>1</pid>
+   <c_midx>14760.84375</c_midx>
+   <c_midy>8153.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.0025058282237288136</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3109639146403496E16</tsAtUpdate>
+   <pid>1</pid>
+   <c_midx>14760.84375</c_midx>
+   <c_midy>8153.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.006427994139130435</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3105639146403496E16</tsAtUpdate>
+   <pid>9</pid>
+   <c_midx>21321.21875</c_midx>
+   <c_midy>-10865.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.023940638589473685</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3119639146403496E16</tsAtUpdate>
+   <pid>2</pid>
+   <c_midx>21321.21875</c_midx>
+   <c_midy>13587.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.002681640569696969</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3129639146403496E16</tsAtUpdate>
+   <pid>12</pid>
+   <c_midx>37722.15625</c_midx>
+   <c_midy>-10865.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.006559335065116279</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3105639146403496E16</tsAtUpdate>
+   <pid>1</pid>
+   <c_midx>14760.84375</c_midx>
+   <c_midy>8153.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.007781256063157894</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3140639146403496E16</tsAtUpdate>
+   <pid>9</pid>
+   <c_midx>18041.03125</c_midx>
+   <c_midy>-10865.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.036863227148148145</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3115639146403496E16</tsAtUpdate>
+   <pid>2</pid>
+   <c_midx>21321.21875</c_midx>
+   <c_midy>13587.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.003051522027586207</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3125639146403496E16</tsAtUpdate>
+   <pid>12</pid>
+   <c_midx>37722.15625</c_midx>
+   <c_midy>-10865.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.007232087379487179</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3136639146403496E16</tsAtUpdate>
+   <pid>9</pid>
+   <c_midx>18041.03125</c_midx>
+   <c_midy>-10865.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.03981228532</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3118639146403496E16</tsAtUpdate>
+   <pid>1</pid>
+   <c_midx>14760.84375</c_midx>
+   <c_midy>5436.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.0527795771</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3100639146403496E16</tsAtUpdate>
+   <pid>9</pid>
+   <c_midx>18041.03125</c_midx>
+   <c_midy>-10865.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.1421867332857143</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3094639146403496E16</tsAtUpdate>
+   <pid>1</pid>
+   <c_midx>14760.84375</c_midx>
+   <c_midy>8153.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.01848048315</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3111639146403496E16</tsAtUpdate>
+   <pid>12</pid>
+   <c_midx>37722.15625</c_midx>
+   <c_midy>-8148.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.064413375456</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3114639146403496E16</tsAtUpdate>
+   <pid>1</pid>
+   <c_midx>14760.84375</c_midx>
+   <c_midy>5436.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.06031951668571429</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3144639146403496E16</tsAtUpdate>
+   <pid>9</pid>
+   <c_midx>21321.21875</c_midx>
+   <c_midy>-10865.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.007842622986206896</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3108639146403496E16</tsAtUpdate>
+   <pid>9</pid>
+   <c_midx>21321.21875</c_midx>
+   <c_midy>-10865.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.02067600605454545</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3144639146403496E16</tsAtUpdate>
+   <pid>1</pid>
+   <c_midx>14760.84375</c_midx>
+   <c_midy>8153.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.0025490321586206896</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3108639146403496E16</tsAtUpdate>
+   <pid>1</pid>
+   <c_midx>14760.84375</c_midx>
+   <c_midy>8153.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.006720175690909091</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3104639146403496E16</tsAtUpdate>
+   <pid>9</pid>
+   <c_midx>21321.21875</c_midx>
+   <c_midy>-10865.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.02527067406666667</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3118639146403496E16</tsAtUpdate>
+   <pid>2</pid>
+   <c_midx>21321.21875</c_midx>
+   <c_midy>13587.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.0027654418375</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3128639146403496E16</tsAtUpdate>
+   <pid>12</pid>
+   <c_midx>37722.15625</c_midx>
+   <c_midy>-10865.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.006715509709523809</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3104639146403496E16</tsAtUpdate>
+   <pid>1</pid>
+   <c_midx>14760.84375</c_midx>
+   <c_midy>8153.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.008213548066666666</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3139639146403496E16</tsAtUpdate>
+   <pid>9</pid>
+   <c_midx>18041.03125</c_midx>
+   <c_midy>-10865.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.03755875973584906</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3114639146403496E16</tsAtUpdate>
+   <pid>2</pid>
+   <c_midx>21321.21875</c_midx>
+   <c_midy>13587.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.0031605049571428573</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3124639146403496E16</tsAtUpdate>
+   <pid>12</pid>
+   <c_midx>37722.15625</c_midx>
+   <c_midy>-10865.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.007422405468421053</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3135639146403496E16</tsAtUpdate>
+   <pid>9</pid>
+   <c_midx>18041.03125</c_midx>
+   <c_midy>-10865.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.04062478093877551</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3117639146403496E16</tsAtUpdate>
+   <pid>1</pid>
+   <c_midx>14760.84375</c_midx>
+   <c_midy>5436.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.054482144103225806</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3099639146403496E16</tsAtUpdate>
+   <pid>9</pid>
+   <c_midx>18041.03125</c_midx>
+   <c_midy>-10865.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.15312417430769232</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3096639146403496E16</tsAtUpdate>
+   <pid>9</pid>
+   <c_midx>18041.03125</c_midx>
+   <c_midy>-10865.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.1990614266</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3093639146403496E16</tsAtUpdate>
+   <pid>1</pid>
+   <c_midx>14760.84375</c_midx>
+   <c_midy>8153.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.02112055217142857</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3146639146403496E16</tsAtUpdate>
+   <pid>12</pid>
+   <c_midx>37722.15625</c_midx>
+   <c_midy>-8148.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.026838906439999997</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3110639146403496E16</tsAtUpdate>
+   <pid>12</pid>
+   <c_midx>37722.15625</c_midx>
+   <c_midy>-8148.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.0670972661</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3113639146403496E16</tsAtUpdate>
+   <pid>1</pid>
+   <c_midx>14760.84375</c_midx>
+   <c_midy>5436.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.06255357285925926</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3143639146403496E16</tsAtUpdate>
+   <pid>9</pid>
+   <c_midx>21321.21875</c_midx>
+   <c_midy>-10865.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.007980212863157895</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3107639146403496E16</tsAtUpdate>
+   <pid>9</pid>
+   <c_midx>21321.21875</c_midx>
+   <c_midy>-10865.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.02166057777142857</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3106639146403496E16</tsAtUpdate>
+   <pid>12</pid>
+   <c_midx>37722.15625</c_midx>
+   <c_midy>-8148.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.08051671932</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3143639146403496E16</tsAtUpdate>
+   <pid>1</pid>
+   <c_midx>14760.84375</c_midx>
+   <c_midy>8153.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.002593752021052632</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3107639146403496E16</tsAtUpdate>
+   <pid>1</pid>
+   <c_midx>14760.84375</c_midx>
+   <c_midy>8153.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.007040184057142858</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3103639146403496E16</tsAtUpdate>
+   <pid>9</pid>
+   <c_midx>21321.21875</c_midx>
+   <c_midy>-10865.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.02675718430588235</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3117639146403496E16</tsAtUpdate>
+   <pid>2</pid>
+   <c_midx>21321.21875</c_midx>
+   <c_midy>13587.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.002854649638709677</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3127639146403496E16</tsAtUpdate>
+   <pid>12</pid>
+   <c_midx>37722.15625</c_midx>
+   <c_midy>-10865.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.006879302629268293</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3103639146403496E16</tsAtUpdate>
+   <pid>1</pid>
+   <c_midx>14760.84375</c_midx>
+   <c_midy>8153.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.008696697952941175</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3138639146403496E16</tsAtUpdate>
+   <pid>9</pid>
+   <c_midx>18041.03125</c_midx>
+   <c_midy>-10865.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.03828104357692308</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3096639146403496E16</tsAtUpdate>
+   <pid>12</pid>
+   <c_midx>37722.15625</c_midx>
+   <c_midy>-8148.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.16103343864</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3113639146403496E16</tsAtUpdate>
+   <pid>2</pid>
+   <c_midx>21321.21875</c_midx>
+   <c_midy>13587.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.003277560696296296</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3123639146403496E16</tsAtUpdate>
+   <pid>12</pid>
+   <c_midx>37722.15625</c_midx>
+   <c_midy>-10865.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.007623011021621622</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3134639146403496E16</tsAtUpdate>
+   <pid>9</pid>
+   <c_midx>18041.03125</c_midx>
+   <c_midy>-10865.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.041471130541666665</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3098639146403496E16</tsAtUpdate>
+   <pid>9</pid>
+   <c_midx>18041.03125</c_midx>
+   <c_midy>-10865.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.16588452216666666</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3095639146403496E16</tsAtUpdate>
+   <pid>9</pid>
+   <c_midx>18041.03125</c_midx>
+   <c_midy>-10865.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.2211793628888889</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3092639146403496E16</tsAtUpdate>
+   <pid>1</pid>
+   <c_midx>14760.84375</c_midx>
+   <c_midy>8153.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.0246406442</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3145639146403496E16</tsAtUpdate>
+   <pid>12</pid>
+   <c_midx>37722.15625</c_midx>
+   <c_midy>-8148.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.027293803159322037</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3109639146403496E16</tsAtUpdate>
+   <pid>12</pid>
+   <c_midx>37722.15625</c_midx>
+   <c_midy>-8148.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.07001453853913044</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3112639146403496E16</tsAtUpdate>
+   <pid>1</pid>
+   <c_midx>14760.84375</c_midx>
+   <c_midy>5436.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.0649594795076923</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3142639146403496E16</tsAtUpdate>
+   <pid>9</pid>
+   <c_midx>21321.21875</c_midx>
+   <c_midy>-10865.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.008122716664285715</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3105639146403496E16</tsAtUpdate>
+   <pid>12</pid>
+   <c_midx>37722.15625</c_midx>
+   <c_midy>-8148.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.08475444138947369</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3142639146403496E16</tsAtUpdate>
+   <pid>1</pid>
+   <c_midx>14760.84375</c_midx>
+   <c_midy>8153.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.0026400690214285713</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3102639146403496E16</tsAtUpdate>
+   <pid>9</pid>
+   <c_midx>21321.21875</c_midx>
+   <c_midy>-10865.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.028429508325</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3102639146403496E16</tsAtUpdate>
+   <pid>1</pid>
+   <c_midx>14760.84375</c_midx>
+   <c_midy>8153.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.009240241575</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3137639146403496E16</tsAtUpdate>
+   <pid>9</pid>
+   <c_midx>18041.03125</c_midx>
+   <c_midy>-10865.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.039031652274509804</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3095639146403496E16</tsAtUpdate>
+   <pid>12</pid>
+   <c_midx>37722.15625</c_midx>
+   <c_midy>-8148.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.17892604293333333</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3112639146403496E16</tsAtUpdate>
+   <pid>2</pid>
+   <c_midx>21321.21875</c_midx>
+   <c_midy>13587.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.003403620723076923</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3122639146403496E16</tsAtUpdate>
+   <pid>12</pid>
+   <c_midx>37722.15625</c_midx>
+   <c_midy>-10865.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.007834761327777778</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3133639146403496E16</tsAtUpdate>
+   <pid>9</pid>
+   <c_midx>18041.03125</c_midx>
+   <c_midy>-10865.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.042353495021276596</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3097639146403496E16</tsAtUpdate>
+   <pid>9</pid>
+   <c_midx>18041.03125</c_midx>
+   <c_midy>-10865.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.18096493327272728</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3094639146403496E16</tsAtUpdate>
+   <pid>9</pid>
+   <c_midx>18041.03125</c_midx>
+   <c_midy>-10865.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.24882678325000002</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3091639146403496E16</tsAtUpdate>
+   <pid>1</pid>
+   <c_midx>14760.84375</c_midx>
+   <c_midy>8153.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.029568773040000003</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3144639146403496E16</tsAtUpdate>
+   <pid>12</pid>
+   <c_midx>37722.15625</c_midx>
+   <c_midy>-8148.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.02776438597241379</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3108639146403496E16</tsAtUpdate>
+   <pid>12</pid>
+   <c_midx>37722.15625</c_midx>
+   <c_midy>-8148.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.07319701756363636</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3111639146403496E16</tsAtUpdate>
+   <pid>1</pid>
+   <c_midx>14760.84375</c_midx>
+   <c_midy>5436.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.067557858688</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3141639146403496E16</tsAtUpdate>
+   <pid>9</pid>
+   <c_midx>21321.21875</c_midx>
+   <c_midy>-10865.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.008270402421818182</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3104639146403496E16</tsAtUpdate>
+   <pid>12</pid>
+   <c_midx>37722.15625</c_midx>
+   <c_midy>-8148.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.08946302146666667</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3141639146403496E16</tsAtUpdate>
+   <pid>1</pid>
+   <c_midx>14760.84375</c_midx>
+   <c_midy>8153.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.0026880702763636363</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3101639146403496E16</tsAtUpdate>
+   <pid>9</pid>
+   <c_midx>21321.21875</c_midx>
+   <c_midy>-10865.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.03032480888</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3101639146403496E16</tsAtUpdate>
+   <pid>1</pid>
+   <c_midx>14760.84375</c_midx>
+   <c_midy>8153.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.00985625768</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3094639146403496E16</tsAtUpdate>
+   <pid>12</pid>
+   <c_midx>37722.15625</c_midx>
+   <c_midy>-8148.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.2012917983</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3111639146403496E16</tsAtUpdate>
+   <pid>2</pid>
+   <c_midx>21321.21875</c_midx>
+   <c_midy>13587.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.0035397655520000002</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3121639146403496E16</tsAtUpdate>
+   <pid>12</pid>
+   <c_midx>37722.15625</c_midx>
+   <c_midy>-10865.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.008058611651428571</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3132639146403496E16</tsAtUpdate>
+   <pid>9</pid>
+   <c_midx>18041.03125</c_midx>
+   <c_midy>-10865.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.043274223173913044</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3093639146403496E16</tsAtUpdate>
+   <pid>9</pid>
+   <c_midx>18041.03125</c_midx>
+   <c_midy>-10865.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.2843734665714286</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3090639146403496E16</tsAtUpdate>
+   <pid>1</pid>
+   <c_midx>14760.84375</c_midx>
+   <c_midy>8153.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.0369609663</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3143639146403496E16</tsAtUpdate>
+   <pid>12</pid>
+   <c_midx>37722.15625</c_midx>
+   <c_midy>-8148.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.028251480463157896</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3107639146403496E16</tsAtUpdate>
+   <pid>12</pid>
+   <c_midx>37722.15625</c_midx>
+   <c_midy>-8148.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.07668258982857143</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3146639146403496E16</tsAtUpdate>
+   <pid>1</pid>
+   <c_midx>14760.84375</c_midx>
+   <c_midy>5436.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.028149107786666665</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3110639146403496E16</tsAtUpdate>
+   <pid>1</pid>
+   <c_midx>14760.84375</c_midx>
+   <c_midy>5436.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.07037276946666667</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3140639146403496E16</tsAtUpdate>
+   <pid>9</pid>
+   <c_midx>21321.21875</c_midx>
+   <c_midy>-10865.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.008423558022222222</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3103639146403496E16</tsAtUpdate>
+   <pid>12</pid>
+   <c_midx>37722.15625</c_midx>
+   <c_midy>-8148.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.09472555214117648</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3140639146403496E16</tsAtUpdate>
+   <pid>1</pid>
+   <c_midx>14760.84375</c_midx>
+   <c_midy>8153.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.0027378493555555556</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3106639146403496E16</tsAtUpdate>
+   <pid>1</pid>
+   <c_midx>14760.84375</c_midx>
+   <c_midy>5436.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.08444732336</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3136639146403496E16</tsAtUpdate>
+   <pid>9</pid>
+   <c_midx>21321.21875</c_midx>
+   <c_midy>-10865.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.009097442664</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3100639146403496E16</tsAtUpdate>
+   <pid>9</pid>
+   <c_midx>21321.21875</c_midx>
+   <c_midy>-10865.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.03249086665714286</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3136639146403496E16</tsAtUpdate>
+   <pid>1</pid>
+   <c_midx>14760.84375</c_midx>
+   <c_midy>8153.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.0029568773039999998</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3100639146403496E16</tsAtUpdate>
+   <pid>1</pid>
+   <c_midx>14760.84375</c_midx>
+   <c_midy>8153.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.010560276085714285</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3093639146403496E16</tsAtUpdate>
+   <pid>12</pid>
+   <c_midx>37722.15625</c_midx>
+   <c_midy>-8148.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.23004776948571426</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3146639146403496E16</tsAtUpdate>
+   <pid>2</pid>
+   <c_midx>21321.21875</c_midx>
+   <c_midy>13587.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.0014749023133333334</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3110639146403496E16</tsAtUpdate>
+   <pid>2</pid>
+   <c_midx>21321.21875</c_midx>
+   <c_midy>13587.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.0036872557833333335</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3120639146403496E16</tsAtUpdate>
+   <pid>12</pid>
+   <c_midx>37722.15625</c_midx>
+   <c_midy>-10865.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.00829562964117647</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3131639146403496E16</tsAtUpdate>
+   <pid>9</pid>
+   <c_midx>18041.03125</c_midx>
+   <c_midy>-10865.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.04423587257777778</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3092639146403496E16</tsAtUpdate>
+   <pid>9</pid>
+   <c_midx>18041.03125</c_midx>
+   <c_midy>-10865.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.3317690443333333</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3089639146403496E16</tsAtUpdate>
+   <pid>1</pid>
+   <c_midx>14760.84375</c_midx>
+   <c_midy>8153.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.0492812884</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3142639146403496E16</tsAtUpdate>
+   <pid>12</pid>
+   <c_midx>37722.15625</c_midx>
+   <c_midy>-8148.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.028755971185714282</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3106639146403496E16</tsAtUpdate>
+   <pid>2</pid>
+   <c_midx>21321.21875</c_midx>
+   <c_midy>13587.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.00442470694</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3116639146403496E16</tsAtUpdate>
+   <pid>12</pid>
+   <c_midx>37722.15625</c_midx>
+   <c_midy>-10865.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.009401713593333333</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3145639146403496E16</tsAtUpdate>
+   <pid>1</pid>
+   <c_midx>14760.84375</c_midx>
+   <c_midy>5436.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.028626211308474574</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3109639146403496E16</tsAtUpdate>
+   <pid>1</pid>
+   <c_midx>14760.84375</c_midx>
+   <c_midy>5436.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.07343245509565217</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3139639146403496E16</tsAtUpdate>
+   <pid>9</pid>
+   <c_midx>21321.21875</c_midx>
+   <c_midy>-10865.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.008582493079245284</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3102639146403496E16</tsAtUpdate>
+   <pid>12</pid>
+   <c_midx>37722.15625</c_midx>
+   <c_midy>-8148.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.10064589915</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3139639146403496E16</tsAtUpdate>
+   <pid>1</pid>
+   <c_midx>14760.84375</c_midx>
+   <c_midy>8153.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.0027895068905660378</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3105639146403496E16</tsAtUpdate>
+   <pid>1</pid>
+   <c_midx>14760.84375</c_midx>
+   <c_midy>5436.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.0888919193263158</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3135639146403496E16</tsAtUpdate>
+   <pid>9</pid>
+   <c_midx>21321.21875</c_midx>
+   <c_midy>-10865.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.009283104759183675</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3099639146403496E16</tsAtUpdate>
+   <pid>9</pid>
+   <c_midx>21321.21875</c_midx>
+   <c_midy>-10865.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.03499016409230769</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3135639146403496E16</tsAtUpdate>
+   <pid>1</pid>
+   <c_midx>14760.84375</c_midx>
+   <c_midy>8153.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.00301722173877551</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3099639146403496E16</tsAtUpdate>
+   <pid>1</pid>
+   <c_midx>14760.84375</c_midx>
+   <c_midy>8153.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.011372605015384615</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3092639146403496E16</tsAtUpdate>
+   <pid>12</pid>
+   <c_midx>37722.15625</c_midx>
+   <c_midy>-8148.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.2683890644</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3145639146403496E16</tsAtUpdate>
+   <pid>2</pid>
+   <c_midx>21321.21875</c_midx>
+   <c_midy>13587.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.0014999006576271185</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3109639146403496E16</tsAtUpdate>
+   <pid>2</pid>
+   <c_midx>21321.21875</c_midx>
+   <c_midy>13587.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.0038475712521739134</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3119639146403496E16</tsAtUpdate>
+   <pid>12</pid>
+   <c_midx>37722.15625</c_midx>
+   <c_midy>-10865.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.008547012357575757</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3130639146403496E16</tsAtUpdate>
+   <pid>9</pid>
+   <c_midx>18041.03125</c_midx>
+   <c_midy>-10865.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.04524123331818182</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3091639146403496E16</tsAtUpdate>
+   <pid>9</pid>
+   <c_midx>18041.03125</c_midx>
+   <c_midy>-10865.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.3981228532</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3088639146403496E16</tsAtUpdate>
+   <pid>1</pid>
+   <c_midx>14760.84375</c_midx>
+   <c_midy>8153.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.0739219326</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3141639146403496E16</tsAtUpdate>
+   <pid>12</pid>
+   <c_midx>37722.15625</c_midx>
+   <c_midy>-8148.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.029278807025454545</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3105639146403496E16</tsAtUpdate>
+   <pid>2</pid>
+   <c_midx>21321.21875</c_midx>
+   <c_midy>13587.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.004657586252631579</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3115639146403496E16</tsAtUpdate>
+   <pid>12</pid>
+   <c_midx>37722.15625</c_midx>
+   <c_midy>-10865.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.009725910613793102</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3144639146403496E16</tsAtUpdate>
+   <pid>1</pid>
+   <c_midx>14760.84375</c_midx>
+   <c_midy>5436.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.02911976667586207</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3126639146403496E16</tsAtUpdate>
+   <pid>9</pid>
+   <c_midx>18041.03125</c_midx>
+   <c_midy>-10865.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.04976535665</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3108639146403496E16</tsAtUpdate>
+   <pid>1</pid>
+   <c_midx>14760.84375</c_midx>
+   <c_midy>5436.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.07677029396363635</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3138639146403496E16</tsAtUpdate>
+   <pid>9</pid>
+   <c_midx>21321.21875</c_midx>
+   <c_midy>-10865.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.008747541023076923</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3101639146403496E16</tsAtUpdate>
+   <pid>12</pid>
+   <c_midx>37722.15625</c_midx>
+   <c_midy>-8148.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.10735562575999999</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3138639146403496E16</tsAtUpdate>
+   <pid>1</pid>
+   <c_midx>14760.84375</c_midx>
+   <c_midy>8153.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.0028431512538461537</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3104639146403496E16</tsAtUpdate>
+   <pid>1</pid>
+   <c_midx>14760.84375</c_midx>
+   <c_midy>5436.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.09383035928888889</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3134639146403496E16</tsAtUpdate>
+   <pid>9</pid>
+   <c_midx>21321.21875</c_midx>
+   <c_midy>-10865.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.009476502775</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3098639146403496E16</tsAtUpdate>
+   <pid>9</pid>
+   <c_midx>21321.21875</c_midx>
+   <c_midy>-10865.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.0379060111</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3134639146403496E16</tsAtUpdate>
+   <pid>1</pid>
+   <c_midx>14760.84375</c_midx>
+   <c_midy>8153.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.003080080525</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3098639146403496E16</tsAtUpdate>
+   <pid>1</pid>
+   <c_midx>14760.84375</c_midx>
+   <c_midy>8153.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.0123203221</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3091639146403496E16</tsAtUpdate>
+   <pid>12</pid>
+   <c_midx>37722.15625</c_midx>
+   <c_midy>-8148.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.32206687728</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3144639146403496E16</tsAtUpdate>
+   <pid>2</pid>
+   <c_midx>21321.21875</c_midx>
+   <c_midy>13587.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.0015257610137931034</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3108639146403496E16</tsAtUpdate>
+   <pid>2</pid>
+   <c_midx>21321.21875</c_midx>
+   <c_midy>13587.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.004022460854545455</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3118639146403496E16</tsAtUpdate>
+   <pid>12</pid>
+   <c_midx>37722.15625</c_midx>
+   <c_midy>-10865.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.008814106493750001</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3129639146403496E16</tsAtUpdate>
+   <pid>9</pid>
+   <c_midx>18041.03125</c_midx>
+   <c_midy>-10865.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.046293355023255815</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3090639146403496E16</tsAtUpdate>
+   <pid>9</pid>
+   <c_midx>18041.03125</c_midx>
+   <c_midy>-10865.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.49765356650000003</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3087639146403496E16</tsAtUpdate>
+   <pid>1</pid>
+   <c_midx>14760.84375</c_midx>
+   <c_midy>8153.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.1478438652</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3140639146403496E16</tsAtUpdate>
+   <pid>12</pid>
+   <c_midx>37722.15625</c_midx>
+   <c_midy>-8148.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.029821007155555558</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3104639146403496E16</tsAtUpdate>
+   <pid>2</pid>
+   <c_midx>21321.21875</c_midx>
+   <c_midy>13587.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.004916341044444445</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3114639146403496E16</tsAtUpdate>
+   <pid>12</pid>
+   <c_midx>37722.15625</c_midx>
+   <c_midy>-10865.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.010073264564285714</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3143639146403496E16</tsAtUpdate>
+   <pid>1</pid>
+   <c_midx>14760.84375</c_midx>
+   <c_midy>5436.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.029630639775438596</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3125639146403496E16</tsAtUpdate>
+   <pid>9</pid>
+   <c_midx>18041.03125</c_midx>
+   <c_midy>-10865.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.051041391435897435</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3107639146403496E16</tsAtUpdate>
+   <pid>1</pid>
+   <c_midx>14760.84375</c_midx>
+   <c_midy>5436.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.08042602224761905</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3137639146403496E16</tsAtUpdate>
+   <pid>9</pid>
+   <c_midx>21321.21875</c_midx>
+   <c_midy>-10865.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.008919061435294117</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3136639146403496E16</tsAtUpdate>
+   <pid>12</pid>
+   <c_midx>37722.15625</c_midx>
+   <c_midy>-8148.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.032206687728</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3100639146403496E16</tsAtUpdate>
+   <pid>12</pid>
+   <c_midx>37722.15625</c_midx>
+   <c_midy>-8148.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.11502388474285713</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3137639146403496E16</tsAtUpdate>
+   <pid>1</pid>
+   <c_midx>14760.84375</c_midx>
+   <c_midy>8153.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.0028988993176470588</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3103639146403496E16</tsAtUpdate>
+   <pid>1</pid>
+   <c_midx>14760.84375</c_midx>
+   <c_midy>5436.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.09934979218823528</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3133639146403496E16</tsAtUpdate>
+   <pid>9</pid>
+   <c_midx>21321.21875</c_midx>
+   <c_midy>-10865.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.00967813049361702</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3097639146403496E16</tsAtUpdate>
+   <pid>9</pid>
+   <c_midx>21321.21875</c_midx>
+   <c_midy>-10865.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.0413520121090909</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3133639146403496E16</tsAtUpdate>
+   <pid>1</pid>
+   <c_midx>14760.84375</c_midx>
+   <c_midy>8153.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.0031456141531914896</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3097639146403496E16</tsAtUpdate>
+   <pid>1</pid>
+   <c_midx>14760.84375</c_midx>
+   <c_midy>8153.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.013440351381818183</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3090639146403496E16</tsAtUpdate>
+   <pid>12</pid>
+   <c_midx>37722.15625</c_midx>
+   <c_midy>-8148.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.4025835966</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3143639146403496E16</tsAtUpdate>
+   <pid>2</pid>
+   <c_midx>21321.21875</c_midx>
+   <c_midy>13587.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.001552528750877193</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3107639146403496E16</tsAtUpdate>
+   <pid>2</pid>
+   <c_midx>21321.21875</c_midx>
+   <c_midy>13587.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.004214006609523809</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3117639146403496E16</tsAtUpdate>
+   <pid>12</pid>
+   <c_midx>37722.15625</c_midx>
+   <c_midy>-10865.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.009098432509677418</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3128639146403496E16</tsAtUpdate>
+   <pid>9</pid>
+   <c_midx>18041.03125</c_midx>
+   <c_midy>-10865.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.04739557776190476</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3089639146403496E16</tsAtUpdate>
+   <pid>9</pid>
+   <c_midx>18041.03125</c_midx>
+   <c_midy>-10865.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.6635380886666666</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3139639146403496E16</tsAtUpdate>
+   <pid>12</pid>
+   <c_midx>37722.15625</c_midx>
+   <c_midy>-8148.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.030383667667924528</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3103639146403496E16</tsAtUpdate>
+   <pid>2</pid>
+   <c_midx>21321.21875</c_midx>
+   <c_midy>13587.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.005205537576470588</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3113639146403496E16</tsAtUpdate>
+   <pid>12</pid>
+   <c_midx>37722.15625</c_midx>
+   <c_midy>-10865.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.010446348437037036</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3142639146403496E16</tsAtUpdate>
+   <pid>1</pid>
+   <c_midx>14760.84375</c_midx>
+   <c_midy>5436.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.030159758342857144</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3124639146403496E16</tsAtUpdate>
+   <pid>9</pid>
+   <c_midx>18041.03125</c_midx>
+   <c_midy>-10865.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.05238458594736842</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3135639146403496E16</tsAtUpdate>
+   <pid>12</pid>
+   <c_midx>37722.15625</c_midx>
+   <c_midy>-8148.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.03286396706938775</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3099639146403496E16</tsAtUpdate>
+   <pid>12</pid>
+   <c_midx>37722.15625</c_midx>
+   <c_midy>-8148.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.12387187587692308</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3102639146403496E16</tsAtUpdate>
+   <pid>1</pid>
+   <c_midx>14760.84375</c_midx>
+   <c_midy>5436.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.1055591542</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3096639146403496E16</tsAtUpdate>
+   <pid>12</pid>
+   <c_midx>37722.15625</c_midx>
+   <c_midy>-10865.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.02820514078</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3132639146403496E16</tsAtUpdate>
+   <pid>9</pid>
+   <c_midx>21321.21875</c_midx>
+   <c_midy>-10865.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.00988852463478261</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3132639146403496E16</tsAtUpdate>
+   <pid>1</pid>
+   <c_midx>14760.84375</c_midx>
+   <c_midy>8153.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.0032139970695652174</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3089639146403496E16</tsAtUpdate>
+   <pid>12</pid>
+   <c_midx>37722.15625</c_midx>
+   <c_midy>-8148.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.5367781288</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3142639146403496E16</tsAtUpdate>
+   <pid>2</pid>
+   <c_midx>21321.21875</c_midx>
+   <c_midy>13587.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.0015802524785714287</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3127639146403496E16</tsAtUpdate>
+   <pid>9</pid>
+   <c_midx>18041.03125</c_midx>
+   <c_midy>-10865.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.04855156746341464</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3088639146403496E16</tsAtUpdate>
+   <pid>9</pid>
+   <c_midx>18041.03125</c_midx>
+   <c_midy>-10865.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.9953071330000001</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3138639146403496E16</tsAtUpdate>
+   <pid>12</pid>
+   <c_midx>37722.15625</c_midx>
+   <c_midy>-8148.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.03096796896923077</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3102639146403496E16</tsAtUpdate>
+   <pid>2</pid>
+   <c_midx>21321.21875</c_midx>
+   <c_midy>13587.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.005530883675</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3112639146403496E16</tsAtUpdate>
+   <pid>12</pid>
+   <c_midx>37722.15625</c_midx>
+   <c_midy>-10865.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.010848131069230769</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3141639146403496E16</tsAtUpdate>
+   <pid>1</pid>
+   <c_midx>14760.84375</c_midx>
+   <c_midy>5436.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.030708117585454546</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3123639146403496E16</tsAtUpdate>
+   <pid>9</pid>
+   <c_midx>18041.03125</c_midx>
+   <c_midy>-10865.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.05380038556756757</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3134639146403496E16</tsAtUpdate>
+   <pid>12</pid>
+   <c_midx>37722.15625</c_midx>
+   <c_midy>-8148.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.03354863305</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3098639146403496E16</tsAtUpdate>
+   <pid>12</pid>
+   <c_midx>37722.15625</c_midx>
+   <c_midy>-8148.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.1341945322</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3101639146403496E16</tsAtUpdate>
+   <pid>1</pid>
+   <c_midx>14760.84375</c_midx>
+   <c_midy>5436.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.11259643114666666</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3095639146403496E16</tsAtUpdate>
+   <pid>12</pid>
+   <c_midx>37722.15625</c_midx>
+   <c_midy>-10865.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.03133904531111111</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3131639146403496E16</tsAtUpdate>
+   <pid>9</pid>
+   <c_midx>21321.21875</c_midx>
+   <c_midy>-10865.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.010108269626666666</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3131639146403496E16</tsAtUpdate>
+   <pid>1</pid>
+   <c_midx>14760.84375</c_midx>
+   <c_midy>8153.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.0032854192266666667</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3088639146403496E16</tsAtUpdate>
+   <pid>12</pid>
+   <c_midx>37722.15625</c_midx>
+   <c_midy>-8148.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.8051671932</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3141639146403496E16</tsAtUpdate>
+   <pid>2</pid>
+   <c_midx>21321.21875</c_midx>
+   <c_midy>13587.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.0016089843418181818</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3087639146403496E16</tsAtUpdate>
+   <pid>9</pid>
+   <c_midx>18041.03125</c_midx>
+   <c_midy>-10865.5</c_midy>
+   <pidPercentTimeInCellPerWindow>1.9906142660000001</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3137639146403496E16</tsAtUpdate>
+   <pid>12</pid>
+   <c_midx>37722.15625</c_midx>
+   <c_midy>-8148.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.03157518404705882</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3101639146403496E16</tsAtUpdate>
+   <pid>2</pid>
+   <c_midx>21321.21875</c_midx>
+   <c_midy>13587.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.005899609253333334</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3111639146403496E16</tsAtUpdate>
+   <pid>12</pid>
+   <c_midx>37722.15625</c_midx>
+   <c_midy>-10865.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.011282056312</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3140639146403496E16</tsAtUpdate>
+   <pid>1</pid>
+   <c_midx>14760.84375</c_midx>
+   <c_midy>5436.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.03127678642962963</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3122639146403496E16</tsAtUpdate>
+   <pid>9</pid>
+   <c_midx>18041.03125</c_midx>
+   <c_midy>-10865.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.055294840722222224</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3133639146403496E16</tsAtUpdate>
+   <pid>12</pid>
+   <c_midx>37722.15625</c_midx>
+   <c_midy>-8148.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.03426243375319149</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3097639146403496E16</tsAtUpdate>
+   <pid>12</pid>
+   <c_midx>37722.15625</c_midx>
+   <c_midy>-8148.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.14639403512727273</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3136639146403496E16</tsAtUpdate>
+   <pid>1</pid>
+   <c_midx>14760.84375</c_midx>
+   <c_midy>5436.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.033778929344</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3100639146403496E16</tsAtUpdate>
+   <pid>1</pid>
+   <c_midx>14760.84375</c_midx>
+   <c_midy>5436.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.12063903337142858</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3094639146403496E16</tsAtUpdate>
+   <pid>12</pid>
+   <c_midx>37722.15625</c_midx>
+   <c_midy>-10865.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.035256425975000005</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3130639146403496E16</tsAtUpdate>
+   <pid>9</pid>
+   <c_midx>21321.21875</c_midx>
+   <c_midy>-10865.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.010338003027272726</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3130639146403496E16</tsAtUpdate>
+   <pid>1</pid>
+   <c_midx>14760.84375</c_midx>
+   <c_midy>8153.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.0033600878454545457</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3126639146403496E16</tsAtUpdate>
+   <pid>9</pid>
+   <c_midx>21321.21875</c_midx>
+   <c_midy>-10865.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.011371803330000001</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3087639146403496E16</tsAtUpdate>
+   <pid>12</pid>
+   <c_midx>37722.15625</c_midx>
+   <c_midy>-8148.5</c_midy>
+   <pidPercentTimeInCellPerWindow>1.6103343864</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3140639146403496E16</tsAtUpdate>
+   <pid>2</pid>
+   <c_midx>21321.21875</c_midx>
+   <c_midy>13587.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.001638780348148148</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3126639146403496E16</tsAtUpdate>
+   <pid>1</pid>
+   <c_midx>14760.84375</c_midx>
+   <c_midy>8153.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.0036960966300000004</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3136639146403496E16</tsAtUpdate>
+   <pid>2</pid>
+   <c_midx>21321.21875</c_midx>
+   <c_midy>13587.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.0017698827760000001</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3146639146403496E16</tsAtUpdate>
+   <pid>12</pid>
+   <c_midx>37722.15625</c_midx>
+   <c_midy>-10865.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.0047008567966666664</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3100639146403496E16</tsAtUpdate>
+   <pid>2</pid>
+   <c_midx>21321.21875</c_midx>
+   <c_midy>13587.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.006321009914285715</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3110639146403496E16</tsAtUpdate>
+   <pid>12</pid>
+   <c_midx>37722.15625</c_midx>
+   <c_midy>-10865.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.011752141991666666</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3139639146403496E16</tsAtUpdate>
+   <pid>1</pid>
+   <c_midx>14760.84375</c_midx>
+   <c_midy>5436.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.0318669144754717</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3121639146403496E16</tsAtUpdate>
+   <pid>9</pid>
+   <c_midx>18041.03125</c_midx>
+   <c_midy>-10865.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.05687469331428571</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3132639146403496E16</tsAtUpdate>
+   <pid>12</pid>
+   <c_midx>37722.15625</c_midx>
+   <c_midy>-8148.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.03500726926956522</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3096639146403496E16</tsAtUpdate>
+   <pid>9</pid>
+   <c_midx>21321.21875</c_midx>
+   <c_midy>-10865.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.045487213320000004</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3106639146403496E16</tsAtUpdate>
+   <pid>12</pid>
+   <c_midx>37722.15625</c_midx>
+   <c_midy>-10865.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.01410257039</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3135639146403496E16</tsAtUpdate>
+   <pid>1</pid>
+   <c_midx>14760.84375</c_midx>
+   <c_midy>5436.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.03446829524897959</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3099639146403496E16</tsAtUpdate>
+   <pid>1</pid>
+   <c_midx>14760.84375</c_midx>
+   <c_midy>5436.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.1299189590153846</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3093639146403496E16</tsAtUpdate>
+   <pid>12</pid>
+   <c_midx>37722.15625</c_midx>
+   <c_midy>-10865.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.040293058257142855</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3129639146403496E16</tsAtUpdate>
+   <pid>9</pid>
+   <c_midx>21321.21875</c_midx>
+   <c_midy>-10865.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.01057842170232558</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3129639146403496E16</tsAtUpdate>
+   <pid>1</pid>
+   <c_midx>14760.84375</c_midx>
+   <c_midy>8153.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.003438229423255814</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3125639146403496E16</tsAtUpdate>
+   <pid>9</pid>
+   <c_midx>21321.21875</c_midx>
+   <c_midy>-10865.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.011663388030769231</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3139639146403496E16</tsAtUpdate>
+   <pid>2</pid>
+   <c_midx>21321.21875</c_midx>
+   <c_midy>13587.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.0016697007320754717</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3125639146403496E16</tsAtUpdate>
+   <pid>1</pid>
+   <c_midx>14760.84375</c_midx>
+   <c_midy>8153.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.0037908683384615385</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3096639146403496E16</tsAtUpdate>
+   <pid>1</pid>
+   <c_midx>14760.84375</c_midx>
+   <c_midy>5436.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.16889464672</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3135639146403496E16</tsAtUpdate>
+   <pid>2</pid>
+   <c_midx>21321.21875</c_midx>
+   <c_midy>13587.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.0018060028326530612</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3145639146403496E16</tsAtUpdate>
+   <pid>12</pid>
+   <c_midx>37722.15625</c_midx>
+   <c_midy>-10865.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.00478053233559322</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3099639146403496E16</tsAtUpdate>
+   <pid>2</pid>
+   <c_midx>21321.21875</c_midx>
+   <c_midy>13587.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.006807241446153846</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3109639146403496E16</tsAtUpdate>
+   <pid>12</pid>
+   <c_midx>37722.15625</c_midx>
+   <c_midy>-10865.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.012263104686956522</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3138639146403496E16</tsAtUpdate>
+   <pid>1</pid>
+   <c_midx>14760.84375</c_midx>
+   <c_midy>5436.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.03247973975384615</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3120639146403496E16</tsAtUpdate>
+   <pid>9</pid>
+   <c_midx>18041.03125</c_midx>
+   <c_midy>-10865.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.0585474784117647</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3131639146403496E16</tsAtUpdate>
+   <pid>12</pid>
+   <c_midx>37722.15625</c_midx>
+   <c_midy>-8148.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.035785208586666666</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3095639146403496E16</tsAtUpdate>
+   <pid>9</pid>
+   <c_midx>21321.21875</c_midx>
+   <c_midy>-10865.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.05054134813333334</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3105639146403496E16</tsAtUpdate>
+   <pid>12</pid>
+   <c_midx>37722.15625</c_midx>
+   <c_midy>-10865.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.014844810936842106</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3134639146403496E16</tsAtUpdate>
+   <pid>1</pid>
+   <c_midx>14760.84375</c_midx>
+   <c_midy>5436.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.03518638473333333</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3116639146403496E16</tsAtUpdate>
+   <pid>9</pid>
+   <c_midx>18041.03125</c_midx>
+   <c_midy>-10865.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.06635380886666667</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3098639146403496E16</tsAtUpdate>
+   <pid>1</pid>
+   <c_midx>14760.84375</c_midx>
+   <c_midy>5436.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.14074553893333333</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3092639146403496E16</tsAtUpdate>
+   <pid>12</pid>
+   <c_midx>37722.15625</c_midx>
+   <c_midy>-10865.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.047008567966666664</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3128639146403496E16</tsAtUpdate>
+   <pid>9</pid>
+   <c_midx>21321.21875</c_midx>
+   <c_midy>-10865.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.010830288885714285</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3128639146403496E16</tsAtUpdate>
+   <pid>1</pid>
+   <c_midx>14760.84375</c_midx>
+   <c_midy>8153.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.003520092028571429</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3124639146403496E16</tsAtUpdate>
+   <pid>9</pid>
+   <c_midx>21321.21875</c_midx>
+   <c_midy>-10865.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.011970319294736843</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3096639146403496E16</tsAtUpdate>
+   <pid>2</pid>
+   <c_midx>21321.21875</c_midx>
+   <c_midy>13587.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.00884941388</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3138639146403496E16</tsAtUpdate>
+   <pid>2</pid>
+   <c_midx>21321.21875</c_midx>
+   <c_midy>13587.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.0017018103615384615</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3124639146403496E16</tsAtUpdate>
+   <pid>1</pid>
+   <c_midx>14760.84375</c_midx>
+   <c_midy>8153.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.003890628031578947</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3095639146403496E16</tsAtUpdate>
+   <pid>1</pid>
+   <c_midx>14760.84375</c_midx>
+   <c_midy>5436.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.18766071857777777</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3134639146403496E16</tsAtUpdate>
+   <pid>2</pid>
+   <c_midx>21321.21875</c_midx>
+   <c_midy>13587.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.0018436278916666667</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3144639146403496E16</tsAtUpdate>
+   <pid>12</pid>
+   <c_midx>37722.15625</c_midx>
+   <c_midy>-10865.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.004862955306896551</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3098639146403496E16</tsAtUpdate>
+   <pid>2</pid>
+   <c_midx>21321.21875</c_midx>
+   <c_midy>13587.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.007374511566666667</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3108639146403496E16</tsAtUpdate>
+   <pid>12</pid>
+   <c_midx>37722.15625</c_midx>
+   <c_midy>-10865.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.012820518536363635</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3137639146403496E16</tsAtUpdate>
+   <pid>1</pid>
+   <c_midx>14760.84375</c_midx>
+   <c_midy>5436.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.03311659739607843</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3119639146403496E16</tsAtUpdate>
+   <pid>9</pid>
+   <c_midx>18041.03125</c_midx>
+   <c_midy>-10865.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.06032164442424241</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3130639146403496E16</tsAtUpdate>
+   <pid>12</pid>
+   <c_midx>37722.15625</c_midx>
+   <c_midy>-8148.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.03659850878181818</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3094639146403496E16</tsAtUpdate>
+   <pid>9</pid>
+   <c_midx>21321.21875</c_midx>
+   <c_midy>-10865.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.05685901665</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3104639146403496E16</tsAtUpdate>
+   <pid>12</pid>
+   <c_midx>37722.15625</c_midx>
+   <c_midy>-10865.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.015669522655555556</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3133639146403496E16</tsAtUpdate>
+   <pid>1</pid>
+   <c_midx>14760.84375</c_midx>
+   <c_midy>5436.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.035935031217021275</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3115639146403496E16</tsAtUpdate>
+   <pid>9</pid>
+   <c_midx>18041.03125</c_midx>
+   <c_midy>-10865.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.0686418712413793</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3097639146403496E16</tsAtUpdate>
+   <pid>1</pid>
+   <c_midx>14760.84375</c_midx>
+   <c_midy>5436.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.1535405879272727</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3091639146403496E16</tsAtUpdate>
+   <pid>12</pid>
+   <c_midx>37722.15625</c_midx>
+   <c_midy>-10865.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.05641028156</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3127639146403496E16</tsAtUpdate>
+   <pid>9</pid>
+   <c_midx>21321.21875</c_midx>
+   <c_midy>-10865.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.011094442273170732</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3126639146403496E16</tsAtUpdate>
+   <pid>12</pid>
+   <c_midx>37722.15625</c_midx>
+   <c_midy>-8148.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.04025835966</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3127639146403496E16</tsAtUpdate>
+   <pid>1</pid>
+   <c_midx>14760.84375</c_midx>
+   <c_midy>8153.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.0036059479317073167</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3123639146403496E16</tsAtUpdate>
+   <pid>9</pid>
+   <c_midx>21321.21875</c_midx>
+   <c_midy>-10865.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.012293841437837839</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3095639146403496E16</tsAtUpdate>
+   <pid>2</pid>
+   <c_midx>21321.21875</c_midx>
+   <c_midy>13587.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.00983268208888889</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3137639146403496E16</tsAtUpdate>
+   <pid>2</pid>
+   <c_midx>21321.21875</c_midx>
+   <c_midy>13587.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.0017351791921568628</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3123639146403496E16</tsAtUpdate>
+   <pid>1</pid>
+   <c_midx>14760.84375</c_midx>
+   <c_midy>8153.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.003995780140540541</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3094639146403496E16</tsAtUpdate>
+   <pid>1</pid>
+   <c_midx>14760.84375</c_midx>
+   <c_midy>5436.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.2111183084</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3133639146403496E16</tsAtUpdate>
+   <pid>2</pid>
+   <c_midx>21321.21875</c_midx>
+   <c_midy>13587.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.0018828540170212765</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3143639146403496E16</tsAtUpdate>
+   <pid>12</pid>
+   <c_midx>37722.15625</c_midx>
+   <c_midy>-10865.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.004948270312280702</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3097639146403496E16</tsAtUpdate>
+   <pid>2</pid>
+   <c_midx>21321.21875</c_midx>
+   <c_midy>13587.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.00804492170909091</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3107639146403496E16</tsAtUpdate>
+   <pid>12</pid>
+   <c_midx>37722.15625</c_midx>
+   <c_midy>-10865.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.013431019419047618</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3118639146403496E16</tsAtUpdate>
+   <pid>9</pid>
+   <c_midx>18041.03125</c_midx>
+   <c_midy>-10865.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.062206695812500004</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3129639146403496E16</tsAtUpdate>
+   <pid>12</pid>
+   <c_midx>37722.15625</c_midx>
+   <c_midy>-8148.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.037449636893023254</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3093639146403496E16</tsAtUpdate>
+   <pid>9</pid>
+   <c_midx>21321.21875</c_midx>
+   <c_midy>-10865.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.06498173331428572</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3103639146403496E16</tsAtUpdate>
+   <pid>12</pid>
+   <c_midx>37722.15625</c_midx>
+   <c_midy>-10865.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.01659125928235294</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3132639146403496E16</tsAtUpdate>
+   <pid>1</pid>
+   <c_midx>14760.84375</c_midx>
+   <c_midy>5436.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.03671622754782609</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3114639146403496E16</tsAtUpdate>
+   <pid>9</pid>
+   <c_midx>18041.03125</c_midx>
+   <c_midy>-10865.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.07109336664285715</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3090639146403496E16</tsAtUpdate>
+   <pid>12</pid>
+   <c_midx>37722.15625</c_midx>
+   <c_midy>-10865.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.07051285195000001</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3125639146403496E16</tsAtUpdate>
+   <pid>12</pid>
+   <c_midx>37722.15625</c_midx>
+   <c_midy>-8148.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.04129062529230769</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3122639146403496E16</tsAtUpdate>
+   <pid>9</pid>
+   <c_midx>21321.21875</c_midx>
+   <c_midy>-10865.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.012635337033333334</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3094639146403496E16</tsAtUpdate>
+   <pid>2</pid>
+   <c_midx>21321.21875</c_midx>
+   <c_midy>13587.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.01106176735</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3122639146403496E16</tsAtUpdate>
+   <pid>1</pid>
+   <c_midx>14760.84375</c_midx>
+   <c_midy>8153.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.004106774033333333</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3093639146403496E16</tsAtUpdate>
+   <pid>1</pid>
+   <c_midx>14760.84375</c_midx>
+   <c_midy>5436.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.24127806674285715</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3132639146403496E16</tsAtUpdate>
+   <pid>2</pid>
+   <c_midx>21321.21875</c_midx>
+   <c_midy>13587.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.0019237856260869567</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3142639146403496E16</tsAtUpdate>
+   <pid>12</pid>
+   <c_midx>37722.15625</c_midx>
+   <c_midy>-10865.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.005036632282142857</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3117639146403496E16</tsAtUpdate>
+   <pid>9</pid>
+   <c_midx>18041.03125</c_midx>
+   <c_midy>-10865.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.06421336341935482</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3128639146403496E16</tsAtUpdate>
+   <pid>12</pid>
+   <c_midx>37722.15625</c_midx>
+   <c_midy>-8148.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.038341294914285715</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3092639146403496E16</tsAtUpdate>
+   <pid>9</pid>
+   <c_midx>21321.21875</c_midx>
+   <c_midy>-10865.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.0758120222</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3102639146403496E16</tsAtUpdate>
+   <pid>12</pid>
+   <c_midx>37722.15625</c_midx>
+   <c_midy>-10865.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.017628212987500003</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3131639146403496E16</tsAtUpdate>
+   <pid>1</pid>
+   <c_midx>14760.84375</c_midx>
+   <c_midy>5436.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.037532143715555556</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3113639146403496E16</tsAtUpdate>
+   <pid>9</pid>
+   <c_midx>18041.03125</c_midx>
+   <c_midy>-10865.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.07372645429629629</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3089639146403496E16</tsAtUpdate>
+   <pid>12</pid>
+   <c_midx>37722.15625</c_midx>
+   <c_midy>-10865.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.09401713593333333</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3124639146403496E16</tsAtUpdate>
+   <pid>12</pid>
+   <c_midx>37722.15625</c_midx>
+   <c_midy>-8148.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.042377220694736845</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3121639146403496E16</tsAtUpdate>
+   <pid>9</pid>
+   <c_midx>21321.21875</c_midx>
+   <c_midy>-10865.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.012996346662857143</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3093639146403496E16</tsAtUpdate>
+   <pid>2</pid>
+   <c_midx>21321.21875</c_midx>
+   <c_midy>13587.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.01264201982857143</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3121639146403496E16</tsAtUpdate>
+   <pid>1</pid>
+   <c_midx>14760.84375</c_midx>
+   <c_midy>8153.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.004224110434285714</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3092639146403496E16</tsAtUpdate>
+   <pid>1</pid>
+   <c_midx>14760.84375</c_midx>
+   <c_midy>5436.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.28149107786666666</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3131639146403496E16</tsAtUpdate>
+   <pid>2</pid>
+   <c_midx>21321.21875</c_midx>
+   <c_midy>13587.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.0019665364177777777</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3141639146403496E16</tsAtUpdate>
+   <pid>12</pid>
+   <c_midx>37722.15625</c_midx>
+   <c_midy>-10865.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.0051282074145454545</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3127639146403496E16</tsAtUpdate>
+   <pid>12</pid>
+   <c_midx>37722.15625</c_midx>
+   <c_midy>-8148.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.03927644844878049</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3091639146403496E16</tsAtUpdate>
+   <pid>9</pid>
+   <c_midx>21321.21875</c_midx>
+   <c_midy>-10865.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.09097442664000001</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3101639146403496E16</tsAtUpdate>
+   <pid>12</pid>
+   <c_midx>37722.15625</c_midx>
+   <c_midy>-10865.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.018803427186666666</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3130639146403496E16</tsAtUpdate>
+   <pid>1</pid>
+   <c_midx>14760.84375</c_midx>
+   <c_midy>5436.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.03838514698181818</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3112639146403496E16</tsAtUpdate>
+   <pid>9</pid>
+   <c_midx>18041.03125</c_midx>
+   <c_midy>-10865.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.07656208715384616</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3088639146403496E16</tsAtUpdate>
+   <pid>12</pid>
+   <c_midx>37722.15625</c_midx>
+   <c_midy>-10865.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.14102570390000002</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3123639146403496E16</tsAtUpdate>
+   <pid>12</pid>
+   <c_midx>37722.15625</c_midx>
+   <c_midy>-8148.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.043522550983783784</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3126639146403496E16</tsAtUpdate>
+   <pid>1</pid>
+   <c_midx>14760.84375</c_midx>
+   <c_midy>5436.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.04222366168</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3120639146403496E16</tsAtUpdate>
+   <pid>9</pid>
+   <c_midx>21321.21875</c_midx>
+   <c_midy>-10865.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.013378592152941175</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3092639146403496E16</tsAtUpdate>
+   <pid>2</pid>
+   <c_midx>21321.21875</c_midx>
+   <c_midy>13587.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.014749023133333334</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3120639146403496E16</tsAtUpdate>
+   <pid>1</pid>
+   <c_midx>14760.84375</c_midx>
+   <c_midy>8153.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.004348348976470588</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3091639146403496E16</tsAtUpdate>
+   <pid>1</pid>
+   <c_midx>14760.84375</c_midx>
+   <c_midy>5436.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.33778929344</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3116639146403496E16</tsAtUpdate>
+   <pid>9</pid>
+   <c_midx>21321.21875</c_midx>
+   <c_midy>-10865.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.01516240444</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3130639146403496E16</tsAtUpdate>
+   <pid>2</pid>
+   <c_midx>21321.21875</c_midx>
+   <c_midy>13587.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.0020112304272727273</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3140639146403496E16</tsAtUpdate>
+   <pid>12</pid>
+   <c_midx>37722.15625</c_midx>
+   <c_midy>-10865.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.005223174218518518</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3116639146403496E16</tsAtUpdate>
+   <pid>1</pid>
+   <c_midx>14760.84375</c_midx>
+   <c_midy>8153.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.00492812884</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3090639146403496E16</tsAtUpdate>
+   <pid>9</pid>
+   <c_midx>21321.21875</c_midx>
+   <c_midy>-10865.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.1137180333</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3126639146403496E16</tsAtUpdate>
+   <pid>2</pid>
+   <c_midx>21321.21875</c_midx>
+   <c_midy>13587.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.00221235347</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3136639146403496E16</tsAtUpdate>
+   <pid>12</pid>
+   <c_midx>37722.15625</c_midx>
+   <c_midy>-10865.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.005641028156</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3100639146403496E16</tsAtUpdate>
+   <pid>12</pid>
+   <c_midx>37722.15625</c_midx>
+   <c_midy>-10865.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.020146529128571428</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3129639146403496E16</tsAtUpdate>
+   <pid>1</pid>
+   <c_midx>14760.84375</c_midx>
+   <c_midy>5436.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.03927782481860465</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3111639146403496E16</tsAtUpdate>
+   <pid>9</pid>
+   <c_midx>18041.03125</c_midx>
+   <c_midy>-10865.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.07962457064</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3087639146403496E16</tsAtUpdate>
+   <pid>12</pid>
+   <c_midx>37722.15625</c_midx>
+   <c_midy>-10865.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.28205140780000004</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3122639146403496E16</tsAtUpdate>
+   <pid>12</pid>
+   <c_midx>37722.15625</c_midx>
+   <c_midy>-8148.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.044731510733333334</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3125639146403496E16</tsAtUpdate>
+   <pid>1</pid>
+   <c_midx>14760.84375</c_midx>
+   <c_midy>5436.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.04330631967179487</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3119639146403496E16</tsAtUpdate>
+   <pid>9</pid>
+   <c_midx>21321.21875</c_midx>
+   <c_midy>-10865.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.013784004036363633</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3091639146403496E16</tsAtUpdate>
+   <pid>2</pid>
+   <c_midx>21321.21875</c_midx>
+   <c_midy>13587.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.01769882776</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3119639146403496E16</tsAtUpdate>
+   <pid>1</pid>
+   <c_midx>14760.84375</c_midx>
+   <c_midy>8153.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.004480117127272727</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3090639146403496E16</tsAtUpdate>
+   <pid>1</pid>
+   <c_midx>14760.84375</c_midx>
+   <c_midy>5436.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.4222366168</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3115639146403496E16</tsAtUpdate>
+   <pid>9</pid>
+   <c_midx>21321.21875</c_midx>
+   <c_midy>-10865.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.015685245972413792</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3129639146403496E16</tsAtUpdate>
+   <pid>2</pid>
+   <c_midx>21321.21875</c_midx>
+   <c_midy>13587.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.002058003227906977</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3139639146403496E16</tsAtUpdate>
+   <pid>12</pid>
+   <c_midx>37722.15625</c_midx>
+   <c_midy>-10865.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.0053217246754716984</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3115639146403496E16</tsAtUpdate>
+   <pid>1</pid>
+   <c_midx>14760.84375</c_midx>
+   <c_midy>8153.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.005098064317241379</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3089639146403496E16</tsAtUpdate>
+   <pid>9</pid>
+   <c_midx>21321.21875</c_midx>
+   <c_midy>-10865.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.1516240444</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3125639146403496E16</tsAtUpdate>
+   <pid>2</pid>
+   <c_midx>21321.21875</c_midx>
+   <c_midy>13587.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.0022690804820512823</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3135639146403496E16</tsAtUpdate>
+   <pid>12</pid>
+   <c_midx>37722.15625</c_midx>
+   <c_midy>-10865.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.005756151179591837</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3099639146403496E16</tsAtUpdate>
+   <pid>12</pid>
+   <c_midx>37722.15625</c_midx>
+   <c_midy>-10865.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.021696262138461538</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3146639146403496E16</tsAtUpdate>
+   <pid>9</pid>
+   <c_midx>18041.03125</c_midx>
+   <c_midy>-10865.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.033176904433333335</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3128639146403496E16</tsAtUpdate>
+   <pid>1</pid>
+   <c_midx>14760.84375</c_midx>
+   <c_midy>5436.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.040213011123809525</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3110639146403496E16</tsAtUpdate>
+   <pid>9</pid>
+   <c_midx>18041.03125</c_midx>
+   <c_midy>-10865.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.08294226108333333</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3121639146403496E16</tsAtUpdate>
+   <pid>12</pid>
+   <c_midx>37722.15625</c_midx>
+   <c_midy>-8148.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.046009553897142855</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3124639146403496E16</tsAtUpdate>
+   <pid>1</pid>
+   <c_midx>14760.84375</c_midx>
+   <c_midy>5436.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.0444459596631579</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3106639146403496E16</tsAtUpdate>
+   <pid>9</pid>
+   <c_midx>18041.03125</c_midx>
+   <c_midy>-10865.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.0995307133</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3118639146403496E16</tsAtUpdate>
+   <pid>9</pid>
+   <c_midx>21321.21875</c_midx>
+   <c_midy>-10865.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.0142147541625</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3090639146403496E16</tsAtUpdate>
+   <pid>2</pid>
+   <c_midx>21321.21875</c_midx>
+   <c_midy>13587.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.0221235347</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3118639146403496E16</tsAtUpdate>
+   <pid>1</pid>
+   <c_midx>14760.84375</c_midx>
+   <c_midy>8153.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.0046201207875</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3089639146403496E16</tsAtUpdate>
+   <pid>1</pid>
+   <c_midx>14760.84375</c_midx>
+   <c_midy>5436.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.5629821557333333</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3114639146403496E16</tsAtUpdate>
+   <pid>9</pid>
+   <c_midx>21321.21875</c_midx>
+   <c_midy>-10865.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.01624543332857143</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3128639146403496E16</tsAtUpdate>
+   <pid>2</pid>
+   <c_midx>21321.21875</c_midx>
+   <c_midy>13587.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.0021070033047619046</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3138639146403496E16</tsAtUpdate>
+   <pid>12</pid>
+   <c_midx>37722.15625</c_midx>
+   <c_midy>-10865.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.0054240655346153846</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3114639146403496E16</tsAtUpdate>
+   <pid>1</pid>
+   <c_midx>14760.84375</c_midx>
+   <c_midy>8153.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.0052801380428571425</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3088639146403496E16</tsAtUpdate>
+   <pid>9</pid>
+   <c_midx>21321.21875</c_midx>
+   <c_midy>-10865.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.2274360666</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3124639146403496E16</tsAtUpdate>
+   <pid>2</pid>
+   <c_midx>21321.21875</c_midx>
+   <c_midy>13587.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.0023287931263157894</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3134639146403496E16</tsAtUpdate>
+   <pid>12</pid>
+   <c_midx>37722.15625</c_midx>
+   <c_midy>-10865.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.005876070995833333</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3098639146403496E16</tsAtUpdate>
+   <pid>12</pid>
+   <c_midx>37722.15625</c_midx>
+   <c_midy>-10865.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.023504283983333332</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3145639146403496E16</tsAtUpdate>
+   <pid>9</pid>
+   <c_midx>18041.03125</c_midx>
+   <c_midy>-10865.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.03373922484745762</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3127639146403496E16</tsAtUpdate>
+   <pid>1</pid>
+   <c_midx>14760.84375</c_midx>
+   <c_midy>5436.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.04119381627317073</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3109639146403496E16</tsAtUpdate>
+   <pid>9</pid>
+   <c_midx>18041.03125</c_midx>
+   <c_midy>-10865.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.08654844634782609</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3120639146403496E16</tsAtUpdate>
+   <pid>12</pid>
+   <c_midx>37722.15625</c_midx>
+   <c_midy>-8148.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.04736277607058824</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3123639146403496E16</tsAtUpdate>
+   <pid>1</pid>
+   <c_midx>14760.84375</c_midx>
+   <c_midy>5436.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.04564720181621622</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3105639146403496E16</tsAtUpdate>
+   <pid>9</pid>
+   <c_midx>18041.03125</c_midx>
+   <c_midy>-10865.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.10476917189473683</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3117639146403496E16</tsAtUpdate>
+   <pid>9</pid>
+   <c_midx>21321.21875</c_midx>
+   <c_midy>-10865.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.014673294619354838</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3089639146403496E16</tsAtUpdate>
+   <pid>2</pid>
+   <c_midx>21321.21875</c_midx>
+   <c_midy>13587.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.029498046266666668</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3116639146403496E16</tsAtUpdate>
+   <pid>12</pid>
+   <c_midx>37722.15625</c_midx>
+   <c_midy>-8148.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.053677812879999995</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3117639146403496E16</tsAtUpdate>
+   <pid>1</pid>
+   <c_midx>14760.84375</c_midx>
+   <c_midy>8153.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.004769156941935484</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3088639146403496E16</tsAtUpdate>
+   <pid>1</pid>
+   <c_midx>14760.84375</c_midx>
+   <c_midy>5436.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.8444732336</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3113639146403496E16</tsAtUpdate>
+   <pid>9</pid>
+   <c_midx>21321.21875</c_midx>
+   <c_midy>-10865.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.016847116044444443</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3127639146403496E16</tsAtUpdate>
+   <pid>2</pid>
+   <c_midx>21321.21875</c_midx>
+   <c_midy>13587.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.0021583936292682926</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3137639146403496E16</tsAtUpdate>
+   <pid>12</pid>
+   <c_midx>37722.15625</c_midx>
+   <c_midy>-10865.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.005530419760784314</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3113639146403496E16</tsAtUpdate>
+   <pid>1</pid>
+   <c_midx>14760.84375</c_midx>
+   <c_midy>8153.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.005475698711111111</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3087639146403496E16</tsAtUpdate>
+   <pid>9</pid>
+   <c_midx>21321.21875</c_midx>
+   <c_midy>-10865.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.4548721332</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3123639146403496E16</tsAtUpdate>
+   <pid>2</pid>
+   <c_midx>21321.21875</c_midx>
+   <c_midy>13587.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.0023917334810810813</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3133639146403496E16</tsAtUpdate>
+   <pid>12</pid>
+   <c_midx>37722.15625</c_midx>
+   <c_midy>-10865.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.006001093782978723</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3097639146403496E16</tsAtUpdate>
+   <pid>12</pid>
+   <c_midx>37722.15625</c_midx>
+   <c_midy>-10865.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.02564103707272727</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3144639146403496E16</tsAtUpdate>
+   <pid>9</pid>
+   <c_midx>18041.03125</c_midx>
+   <c_midy>-10865.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.03432093562068965</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3108639146403496E16</tsAtUpdate>
+   <pid>9</pid>
+   <c_midx>18041.03125</c_midx>
+   <c_midy>-10865.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.09048246663636364</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3119639146403496E16</tsAtUpdate>
+   <pid>12</pid>
+   <c_midx>37722.15625</c_midx>
+   <c_midy>-8148.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.0487980117090909</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3122639146403496E16</tsAtUpdate>
+   <pid>1</pid>
+   <c_midx>14760.84375</c_midx>
+   <c_midy>5436.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.046915179644444444</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3104639146403496E16</tsAtUpdate>
+   <pid>9</pid>
+   <c_midx>18041.03125</c_midx>
+   <c_midy>-10865.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.11058968144444445</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3088639146403496E16</tsAtUpdate>
+   <pid>2</pid>
+   <c_midx>21321.21875</c_midx>
+   <c_midy>13587.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.0442470694</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3115639146403496E16</tsAtUpdate>
+   <pid>12</pid>
+   <c_midx>37722.15625</c_midx>
+   <c_midy>-8148.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.05552877194482758</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3087639146403496E16</tsAtUpdate>
+   <pid>1</pid>
+   <c_midx>14760.84375</c_midx>
+   <c_midy>5436.5</c_midy>
+   <pidPercentTimeInCellPerWindow>1.6889464672</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3112639146403496E16</tsAtUpdate>
+   <pid>9</pid>
+   <c_midx>21321.21875</c_midx>
+   <c_midy>-10865.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.017495082046153847</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3112639146403496E16</tsAtUpdate>
+   <pid>1</pid>
+   <c_midx>14760.84375</c_midx>
+   <c_midy>8153.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.005686302507692307</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3122639146403496E16</tsAtUpdate>
+   <pid>2</pid>
+   <c_midx>21321.21875</c_midx>
+   <c_midy>13587.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.0024581705222222225</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3132639146403496E16</tsAtUpdate>
+   <pid>12</pid>
+   <c_midx>37722.15625</c_midx>
+   <c_midy>-10865.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.006131552343478261</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3143639146403496E16</tsAtUpdate>
+   <pid>9</pid>
+   <c_midx>18041.03125</c_midx>
+   <c_midy>-10865.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.034923057298245616</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3107639146403496E16</tsAtUpdate>
+   <pid>9</pid>
+   <c_midx>18041.03125</c_midx>
+   <c_midy>-10865.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.09479115552380953</pidPercentTimeInCellPerWindow>
+</output>
+<output>
+   <tsAtUpdate>1.3118639146403496E16</tsAtUpdate>
+   <pid>12</pid>
+   <c_midx>37722.15625</c_midx>
+   <c_midy>-8148.5</c_midy>
+   <pidPercentTimeInCellPerWindow>0.050322949575</pidPercentTimeInCellPerWindow>
+</output>
+
+</niagara:results>

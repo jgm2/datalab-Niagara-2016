@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<!DOCTYPE plan SYSTEM "queryplan.dtd">
+
+<plan top="cons">
+
+<csvstream id="csvstream"
+        file_name="../../tests/data/tow04_pruned_start5001_punct.csv"
+        attr_names="towid scan timeJ latitude longitude depth temperature conductivity  salinity flSP flSP1 depthPrevdepthDiff density" 
+        attr_types="int TS double double double double double double double double double double double"
+/>
+ 
+<bucket id="bucket" 
+        range="150" 
+        slide="150" 
+        wintype="0" 
+        winattr="$scan" 
+        input="csvstream"/>
+        
+<max id="max" groupby="$wid_from_bucket" maxattr="$flSP" input="bucket"/>
+
+<construct id="cons" input="max">
+<![CDATA[
+<output>
+  $wid_from_bucket
+  $max
+</output>
+]]>
+</construct>
+
+</plan>

@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<!DOCTYPE plan SYSTEM "queryplan.dtd">
+
+<plan top="cons">
+
+<csvstream id="csvstream"
+    file_name="D:/Heatmap-input/2nd-half_to_end-1800s - punctuated - 100B punc.csv"
+    attr_names="sid ts x y z v_v v_a vx vy vz ax ay az" 
+    attr_types="int TS int int int int int int int int int int int"
+/>
+
+<heatmapMapSidToPid id="heatmapMapSidToPid" input="csvstream"
+/>
+
+<gridFrame id="gridFrame" input="heatmapMapSidToPid"
+    groupby="pid"
+    timeattr="ts"
+    xgridattr="x"
+    ygridattr="y"
+    xcells="16"
+    ycells="25"
+    corners="0 -33960 52483 33965"
+/>
+
+<expression id="frameLength" input="gridFrame"
+    variables="st_ts end_ts"
+    expression="result = end_ts - st_ts"
+/>
+
+<construct id="cons" input="frameLength">
+<![CDATA[
+<output>
+    $pid
+    $st_ts
+    $end_ts
+    $frameLength
+</output>
+]]>
+</construct>
+
+</plan>

@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<!DOCTYPE plan SYSTEM "queryplan.dtd">
+
+<plan top="heatmapMapSidToPid">
+
+<csvstream id="csvstream"
+    file_name="../../JGMtests/data/2nd-half_to_end-5000000.csv"
+    attr_names="sid ts x y z v_v v_a vx vy vz ax ay az" 
+    attr_types="int TS int int int int int int int int int int int"
+/>
+
+<heatmapMapSidToPid id="heatmapMapSidToPid" input="csvstream"
+/>
+
+</plan>

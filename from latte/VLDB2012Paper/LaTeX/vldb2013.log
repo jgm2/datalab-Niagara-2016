@@ -1,0 +1,1187 @@
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2011.11.22)  13 JUN 2012 12:00
+entering extended mode
+**S:/latte/VLDB2012Paper/LaTeX/vldb2013.tex
+(S:/latte/VLDB2012Paper/LaTeX/vldb2013.tex
+LaTeX2e <2011/06/27>
+Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, arabic, armenian, assamese, basque, bengali
+, bokmal, bulgarian, catalan, coptic, croatian, czech, danish, dutch, esperanto, estonian, farsi, finnish, french, galic
+ian, german, german-x-2009-06-19, greek, gujarati, hindi, hungarian, icelandic, indonesian, interlingua, irish, italian,
+ kannada, kurmanji, lao, latin, latvian, lithuanian, malayalam, marathi, mongolian, mongolianlmc, monogreek, ngerman, ng
+erman-x-2009-06-19, nynorsk, oriya, panjabi, pinyin, polish, portuguese, romanian, russian, sanskrit, serbian, slovak, s
+lovenian, spanish, swedish, swissgerman, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, usenglishm
+ax, welsh, loaded.
+(S:\latte\VLDB2012Paper\LaTeX\vldb.cls ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\geometry\geometry.sty"
+Package: geometry 2010/09/12 v5.6 Page Geometry
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty"
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ifvtex.sty"
+Package: ifvtex 2010/03/01 v1.5 Switches for detecting VTeX and its modes (HO)
+Package ifvtex Info: VTeX not detected.
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty"
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count79
+\Gm@cntv=\count80
+\c@Gm@tempcnt=\count81
+\Gm@bindingoffset=\dimen102
+\Gm@wd@mp=\dimen103
+\Gm@odd@mp=\dimen104
+\Gm@even@mp=\dimen105
+\Gm@layoutwidth=\dimen106
+\Gm@layoutheight=\dimen107
+\Gm@layouthoffset=\dimen108
+\Gm@layoutvoffset=\dimen109
+\Gm@dimlist=\toks15
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\geometry\geometry.cfg"))
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\epsfig.sty"
+Package: epsfig 1999/02/16 v1.7a (e)psfig emulation (SPQR)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\graphics.cfg"
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\pdftex-def\pdftex.def"
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/message (HO)
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+Package: ltxcmds 2011/04/18 v1.20 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count82
+))
+\Gin@req@height=\dimen110
+\Gin@req@width=\dimen111
+)
+\epsfxsize=\dimen112
+\epsfysize=\dimen113
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\amssymb.sty"
+Package: amssymb 2009/06/22 v3.00
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\amsfonts.sty"
+Package: amsfonts 2009/06/22 v3.00 Basic AMSFonts support
+\@emptytoks=\toks16
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 96.
+))
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ams\math\amsmath.sty"
+Package: amsmath 2000/07/18 v2.13 AMS math features
+\@mathmargin=\skip41
+
+For additional information on amsmath, use the `?' option.
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ams\math\amstext.sty"
+Package: amstext 2000/06/29 v2.01
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ams\math\amsgen.sty"
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks17
+\ex@=\dimen114
+))
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ams\math\amsbsy.sty"
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen115
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ams\math\amsopn.sty"
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count83
+LaTeX Info: Redefining \frac on input line 211.
+\uproot@=\count84
+\leftroot@=\count85
+LaTeX Info: Redefining \overline on input line 307.
+\classnum@=\count86
+\DOTSCASE@=\count87
+LaTeX Info: Redefining \ldots on input line 379.
+LaTeX Info: Redefining \dots on input line 382.
+LaTeX Info: Redefining \cdots on input line 467.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
+\big@size=\dimen116
+LaTeX Font Info:    Redeclaring font encoding OML on input line 567.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 568.
+\macc@depth=\count88
+\c@MaxMatrixCols=\count89
+\dotsspace@=\muskip10
+\c@parentequation=\count90
+\dspbrk@lvl=\count91
+\tag@help=\toks18
+\row@=\count92
+\column@=\count93
+\maxfields@=\count94
+\andhelp@=\toks19
+\eqnshift@=\dimen117
+\alignsep@=\dimen118
+\tagshift@=\dimen119
+\tagwidth@=\dimen120
+\totwidth@=\dimen121
+\lineht@=\dimen122
+\@envbody=\toks20
+\multlinegap=\skip42
+\multlinetaggap=\skip43
+\mathdisplay@stack=\toks21
+LaTeX Info: Redefining \[ on input line 2666.
+LaTeX Info: Redefining \] on input line 2667.
+)
+Document Class 'vldb' - based on 'sig-alternate' <26th. July '05>. Modified by G.K.M. Tobin/Gerry Murray
+Based in part upon document Style `acmconf' <22 May 89>. Hacked 4/91 by
+shivers@cs.cmu.edu, 4/93 by theobald@cs.mcgill.ca
+Excerpts were taken from (Journal Style) 'esub2acm.cls'.
+****** Bugs/comments/suggestions/technicalities to Gerry Murray -- murray@hq.acm.org ******
+Questions on the style, SIGS policies, etc. to Adrienne Griscti griscti@acm.org
+\footheight=\dimen123
+\@maxsep=\dimen124
+\@dblmaxsep=\dimen125
+\aucount=\count95
+\originalaucount=\count96
+\auwidth=\dimen126
+\auskip=\dimen127
+\auskipcount=\count97
+\auskip=\dimen128
+\allauboxes=\dimen129
+\addauthors=\toks22
+\addauflag=\count98
+\subtitletext=\toks23
+\savesection=\count99
+\sectioncntr=\count100
+\c@figure=\count101
+\c@table=\count102
+\titleboxnotes=\toks24
+\titleboxnoteflag=\count103
+Document Class: vldb 2010/10/19 - V1.8b - based on sig-alternate V1.8 - based on acmproc.cls V1.3 <Nov. 30 '99>
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\latexsym.sty"
+Package: latexsym 1998/08/17 v2.2e Standard LaTeX package (lasy symbols)
+\symlasy=\mathgroup6
+LaTeX Font Info:    Overwriting symbol font `lasy' in version `bold'
+(Font)                  U/lasy/m/n --> U/lasy/b/n on input line 47.
+)
+\@acmtitlebox=\box28
+\titlenotecount=\count104
+\tntoks=\toks25
+\tntokstwo=\toks26
+\tntoksthree=\toks27
+\tntoksfour=\toks28
+\tntoksfive=\toks29
+\catcount=\count105
+\copyrightnotice=\toks30
+\conf=\toks31
+\confinfo=\toks32
+\c@part=\count106
+\c@section=\count107
+\c@subsection=\count108
+\c@subsubsection=\count109
+\c@paragraph=\count110
+
+Using 'Abbrev' bibliography style
+\bibindent=\dimen130
+\colcntr=\count111
+\savebox=\box29
+\copyrtyr=\toks33
+\acmcopyr=\toks34
+\boilerplate=\toks35
+\copyrightetc=\toks36
+) (C:\Users\michagro\AppData\Roaming\MiKTeX\2.9\tex\latex\preprint\balance.sty
+Package: balance 1999/02/23 4.3 (PWD)
+\oldvsize=\dimen131
+)
+(C:\Users\michagro\AppData\Roaming\MiKTeX\2.9\tex\latex\booktabs\booktabs.sty
+Package: booktabs 2005/04/14 v1.61803 publication quality tables
+\heavyrulewidth=\dimen132
+\lightrulewidth=\dimen133
+\cmidrulewidth=\dimen134
+\belowrulesep=\dimen135
+\belowbottomsep=\dimen136
+\aboverulesep=\dimen137
+\abovetopsep=\dimen138
+\cmidrulesep=\dimen139
+\cmidrulekern=\dimen140
+\defaultaddspace=\dimen141
+\@cmidla=\count112
+\@cmidlb=\count113
+\@aboverulesep=\dimen142
+\@belowrulesep=\dimen143
+\@thisruleclass=\count114
+\@lastruleclass=\count115
+\@thisrulewidth=\dimen144
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\multirow\multirow.sty"
+\bigstrutjot=\dimen145
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ltxmisc\url.sty"
+\Urlmuskip=\muskip11
+Package: url 2006/04/12  ver 3.3  Verb mode for urls, etc.
+)
+(C:\Users\michagro\AppData\Roaming\MiKTeX\2.9\tex\latex\newalg\newalg.sty
+Package: newalg 1994/12/15 Format code algorithms nicely
+\algstack=\box30
+\algtab=\box31
+\algline=\count116
+\alga=\toks37
+\algb=\toks38
+)
+(C:\Users\michagro\AppData\Roaming\MiKTeX\2.9\tex\latex\siunitx\siunitx.sty
+(C:\Users\michagro\AppData\Roaming\MiKTeX\2.9\tex\latex\l3kernel\expl3.sty
+(C:\Users\michagro\AppData\Roaming\MiKTeX\2.9\tex\latex\l3kernel\l3names.sty
+(C:\Users\michagro\AppData\Roaming\MiKTeX\2.9\tex\latex\l3kernel\l3bootstrap.sty
+Package: l3bootstrap 2011/12/29 v3110 L3 Experimental bootstrap code
+)
+Package: l3names 2012/03/04 v3494 L3 Experimental namespace for primitives
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\misc\etex.sty"
+Package: etex 1998/03/26 v2.0 eTeX basic definition package (PEB)
+\et@xins=\count117
+)
+Package: expl3 2012/04/23 v3570 L3 Experimental code bundle wrapper
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\color.sty"
+Package: color 2005/11/14 v1.0j Standard LaTeX Color (DPC)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\color.cfg"
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package color Info: Driver file: pdftex.def on input line 130.
+)
+(C:\Users\michagro\AppData\Roaming\MiKTeX\2.9\tex\latex\l3kernel\l3basics.sty
+Package: l3basics 2012/03/04 v3491 L3 Experimental basic definitions
+)
+(C:\Users\michagro\AppData\Roaming\MiKTeX\2.9\tex\latex\l3kernel\l3expan.sty
+Package: l3expan 2012/02/26 v3460 L3 Experimental argument expansion
+)
+(C:\Users\michagro\AppData\Roaming\MiKTeX\2.9\tex\latex\l3kernel\l3tl.sty
+Package: l3tl 2012/03/04 v3490 L3 Experimental token lists
+)
+(C:\Users\michagro\AppData\Roaming\MiKTeX\2.9\tex\latex\l3kernel\l3seq.sty
+Package: l3seq 2012/03/04 v3490 L3 Experimental sequences and stacks
+)
+(C:\Users\michagro\AppData\Roaming\MiKTeX\2.9\tex\latex\l3kernel\l3int.sty
+Package: l3int 2012/03/04 v3490 L3 Experimental integers
+\c_max_int=\count118
+\l_tmpa_int=\count119
+\l_tmpb_int=\count120
+\l_tmpc_int=\count121
+\g_tmpa_int=\count122
+\g_tmpb_int=\count123
+)
+(C:\Users\michagro\AppData\Roaming\MiKTeX\2.9\tex\latex\l3kernel\l3quark.sty
+Package: l3quark 2012/02/12 v3384 L3 Experimental quarks
+)
+(C:\Users\michagro\AppData\Roaming\MiKTeX\2.9\tex\latex\l3kernel\l3prg.sty
+Package: l3prg 2012/03/04 v3490 L3 Experimental control structures
+\g_prg_map_int=\count124
+)
+(C:\Users\michagro\AppData\Roaming\MiKTeX\2.9\tex\latex\l3kernel\l3clist.sty
+Package: l3clist 2012/03/04 v3490 L3 Experimental comma separated lists
+)
+(C:\Users\michagro\AppData\Roaming\MiKTeX\2.9\tex\latex\l3kernel\l3token.sty
+Package: l3token 2012/03/04 v3491 L3 Experimental token manipulation
+)
+(C:\Users\michagro\AppData\Roaming\MiKTeX\2.9\tex\latex\l3kernel\l3prop.sty
+Package: l3prop 2012/03/04 v3490 L3 Experimental property lists
+)
+(C:\Users\michagro\AppData\Roaming\MiKTeX\2.9\tex\latex\l3kernel\l3msg.sty
+Package: l3msg 2012/04/23 v3568 L3 Experimental messages
+)
+(C:\Users\michagro\AppData\Roaming\MiKTeX\2.9\tex\latex\l3kernel\l3file.sty
+Package: l3file 2012/03/09 v3520 L3 Experimental file and I/O operations
+\l_iow_stream_int=\count125
+\l_iow_line_length_int=\count126
+\l_iow_target_length_int=\count127
+\l_iow_current_line_int=\count128
+\l_iow_current_word_int=\count129
+\l_iow_current_indentation_int=\count130
+)
+(C:\Users\michagro\AppData\Roaming\MiKTeX\2.9\tex\latex\l3kernel\l3skip.sty
+Package: l3skip 2012/03/05 v3499 L3 Experimental dimensions and skips
+\l_tmpa_dim=\dimen146
+\l_tmpb_dim=\dimen147
+\l_tmpc_dim=\dimen148
+\g_tmpa_dim=\dimen149
+\g_tmpb_dim=\dimen150
+\l_tmpa_skip=\skip44
+\l_tmpb_skip=\skip45
+\l_tmpc_skip=\skip46
+\g_tmpa_skip=\skip47
+\g_tmpb_skip=\skip48
+)
+(C:\Users\michagro\AppData\Roaming\MiKTeX\2.9\tex\latex\l3kernel\l3keys.sty
+Package: l3keys 2012/03/03 v3487 L3 Experimental key-value interfaces
+\g_keyval_level_int=\count131
+\l_keys_choice_int=\count132
+)
+(C:\Users\michagro\AppData\Roaming\MiKTeX\2.9\tex\latex\l3kernel\l3fp.sty
+Package: l3fp 2012/03/04 v3490 L3 Experimental floating-point operations
+\c_one_million=\count133
+\c_one_hundred_million=\count134
+\c_five_hundred_million=\count135
+\c_one_thousand_million=\count136
+\c_fp_pi_by_four_decimal_int=\count137
+\c_fp_pi_by_four_extended_int=\count138
+\c_fp_pi_decimal_int=\count139
+\c_fp_pi_extended_int=\count140
+\c_fp_two_pi_decimal_int=\count141
+\c_fp_two_pi_extended_int=\count142
+\l_fp_count_int=\count143
+\l_fp_div_offset_int=\count144
+\l_fp_exp_integer_int=\count145
+\l_fp_exp_decimal_int=\count146
+\l_fp_exp_extended_int=\count147
+\l_fp_exp_exponent_int=\count148
+\l_fp_input_a_sign_int=\count149
+\l_fp_input_a_integer_int=\count150
+\l_fp_input_a_decimal_int=\count151
+\l_fp_input_a_exponent_int=\count152
+\l_fp_input_b_sign_int=\count153
+\l_fp_input_b_integer_int=\count154
+\l_fp_input_b_decimal_int=\count155
+\l_fp_input_b_exponent_int=\count156
+\l_fp_input_a_extended_int=\count157
+\l_fp_input_b_extended_int=\count158
+\l_fp_mul_a_i_int=\count159
+\l_fp_mul_a_ii_int=\count160
+\l_fp_mul_a_iii_int=\count161
+\l_fp_mul_a_iv_int=\count162
+\l_fp_mul_a_v_int=\count163
+\l_fp_mul_a_vi_int=\count164
+\l_fp_mul_b_i_int=\count165
+\l_fp_mul_b_ii_int=\count166
+\l_fp_mul_b_iii_int=\count167
+\l_fp_mul_b_iv_int=\count168
+\l_fp_mul_b_v_int=\count169
+\l_fp_mul_b_vi_int=\count170
+\l_fp_mul_output_int=\count171
+\l_fp_output_sign_int=\count172
+\l_fp_output_integer_int=\count173
+\l_fp_output_decimal_int=\count174
+\l_fp_output_exponent_int=\count175
+\l_fp_output_extended_int=\count176
+\l_fp_round_position_int=\count177
+\l_fp_round_target_int=\count178
+\l_fp_split_sign_int=\count179
+\l_fp_internal_int=\count180
+\l_fp_trig_octant_int=\count181
+\l_fp_trig_sign_int=\count182
+\l_fp_trig_decimal_int=\count183
+\l_fp_trig_extended_int=\count184
+\l_fp_internal_dim=\dimen151
+\l_fp_internal_skip=\skip49
+)
+(C:\Users\michagro\AppData\Roaming\MiKTeX\2.9\tex\latex\l3kernel\l3box.sty
+Package: l3box 2012/03/04 v3490 L3 Experimental boxes
+\l_tmpb_box=\box32
+\l_box_top_dim=\dimen152
+\l_box_bottom_dim=\dimen153
+\l_box_left_dim=\dimen154
+\l_box_right_dim=\dimen155
+\l_box_top_new_dim=\dimen156
+\l_box_bottom_new_dim=\dimen157
+\l_box_left_new_dim=\dimen158
+\l_box_right_new_dim=\dimen159
+\l_box_internal_box=\box33
+)
+(C:\Users\michagro\AppData\Roaming\MiKTeX\2.9\tex\latex\l3kernel\l3coffins.sty
+Package: l3coffins 2012/03/03 v3482 L3 Experimental coffin code layer
+\l_coffin_internal_box=\box34
+\l_coffin_internal_dim=\dimen160
+\l_coffin_offset_x_dim=\dimen161
+\l_coffin_offset_y_dim=\dimen162
+\l_coffin_x_dim=\dimen163
+\l_coffin_y_dim=\dimen164
+\l_coffin_x_prime_dim=\dimen165
+\l_coffin_y_prime_dim=\dimen166
+\l_coffin_Depth_dim=\dimen167
+\l_coffin_Height_dim=\dimen168
+\l_coffin_TotalHeight_dim=\dimen169
+\l_coffin_Width_dim=\dimen170
+\c_empty_coffin=\box35
+\l_coffin_aligned_coffin=\box36
+\l_coffin_aligned_internal_coffin=\box37
+\l_coffin_bounding_shift_dim=\dimen171
+\l_coffin_left_corner_dim=\dimen172
+\l_coffin_right_corner_dim=\dimen173
+\l_coffin_bottom_corner_dim=\dimen174
+\l_coffin_top_corner_dim=\dimen175
+\l_coffin_scaled_total_height_dim=\dimen176
+\l_coffin_scaled_width_dim=\dimen177
+\l_coffin_display_coffin=\box38
+\l_coffin_display_coord_coffin=\box39
+\l_coffin_display_pole_coffin=\box40
+\l_coffin_display_offset_dim=\dimen178
+\l_coffin_display_x_dim=\dimen179
+\l_coffin_display_y_dim=\dimen180
+)
+(C:\Users\michagro\AppData\Roaming\MiKTeX\2.9\tex\latex\l3kernel\l3color.sty
+Package: l3color 2011/09/07 v2776 L3 Experimental colour support
+)
+(C:\Users\michagro\AppData\Roaming\MiKTeX\2.9\tex\latex\l3kernel\l3luatex.sty
+Package: l3luatex 2012/02/09 v3355 L3 Experimental LuaTeX-specific functions
+\g_cctab_allocate_int=\count185
+\g_cctab_stack_int=\count186
+))
+Package: siunitx 2012/05/03 v2.5c A comprehensive (SI) units package
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\tools\array.sty"
+Package: array 2008/09/09 v2.4c Tabular extension package (FMi)
+\col@sep=\dimen181
+\extrarowheight=\dimen182
+\NC@list=\toks39
+\extratabsurround=\skip50
+\backup@length=\skip51
+)
+(C:\Users\michagro\AppData\Roaming\MiKTeX\2.9\tex\latex\l3packages\l3keys2e\l3keys2e.sty
+(C:\Users\michagro\AppData\Roaming\MiKTeX\2.9\tex\latex\l3packages\xparse\xparse.sty
+Package: xparse 2012/04/23 v3570 L3 Experimental document command parser
+\l_xparse_current_arg_int=\count187
+\l_xparse_m_args_int=\count188
+\l_xparse_mandatory_args_int=\count189
+\l_xparse_processor_int=\count190
+\l_xparse_v_nesting_int=\count191
+)
+Package: l3keys2e 2012/04/23 v3570 LaTeX2e option processing using LaTeX3 keys
+)
+\l_siunitx_tmp_box=\box41
+\l_siunitx_tmp_dim=\dimen183
+\l_siunitx_tmp_int=\count192
+Variant \prop_get:NVNT already defined; not changing it on line 360
+Variant \prop_get:NVNF already defined; not changing it on line 361
+Variant \prop_get:NVNTF already defined; not changing it on line 362
+\l_siunitx_number_mantissa_length_int=\count193
+\l_siunitx_number_uncert_length_int=\count194
+\l_siunitx_round_int=\count195
+\l_siunitx_process_decimal_int=\count196
+\l_siunitx_process_uncertainty_int=\count197
+\l_siunitx_process_fixed_int=\count198
+\l_siunitx_process_integer_min_int=\count199
+\l_siunitx_process_precision_int=\count200
+\l_siunitx_group_min_int=\count201
+\l_siunitx_angle_marker_box=\box42
+\l_siunitx_angle_unit_box=\box43
+\l_siunitx_angle_marker_dim=\dimen184
+\l_siunitx_angle_unit_dim=\dimen185
+Normal \count register pool exhausted, switching to extended pool.
+\l_siunitx_unit_int=\count277
+\l_siunitx_unit_denominator_int=\count278
+\l_siunitx_unit_numerator_int=\count279
+\l_siunitx_unit_prefix_int=\count280
+\l_siunitx_unit_prefix_base_int=\count281
+\l_siunitx_unit_prefix_gram_int=\count282
+\l_siunitx_number_product_int=\count283
+\c_siunitx_one_fill_skip=\skip52
+\l_siunitx_table_unit_align_skip=\skip53
+\l_siunitx_table_exponent_dim=\dimen186
+\l_siunitx_table_integer_dim=\dimen187
+\l_siunitx_table_mantissa_dim=\dimen188
+\l_siunitx_table_marker_dim=\dimen189
+\l_siunitx_table_result_dim=\dimen190
+\l_siunitx_table_uncert_dim=\dimen191
+\l_siunitx_table_fill_pre_dim=\dimen192
+\l_siunitx_table_fill_post_dim=\dimen193
+\l_siunitx_table_fill_mid_dim=\dimen194
+\l_siunitx_table_pre_box=\box44
+\l_siunitx_table_post_box=\box45
+\l_siunitx_table_mantissa_box=\box46
+\l_siunitx_table_result_box=\box47
+\l_siunitx_table_number_align_skip=\skip54
+\l_siunitx_table_text_align_skip=\skip55
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \DeclareBinaryPrefix with arg. spec. 'mmm' on line
+. 7037.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \DeclareSIPostPower with arg. spec. 'mm' on line
+. 7040.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \DeclareSIPrefix with arg. spec. 'mmm' on line
+. 7043.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \DeclareSIPrePower with arg. spec. 'mm' on line
+. 7046.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \DeclareSIQualifier with arg. spec. 'mm' on line
+. 7049.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \DeclareSIUnit with arg. spec. 'O{}mm' on line
+. 7052.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \DeclareSIUnitWithOptions with arg. spec. 'mmm' on
+. line 7055.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \ang with arg. spec. 'o>{\SplitArgument {2}{;}}m'
+. on line 7070.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \num with arg. spec. 'om' on line 7078.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \numlist with arg. spec. 'o>{\SplitList {;}}m' on
+. line 7086.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \numrange with arg. spec. 'omm' on line 7094.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \SIlist with arg. spec. 'o>{\SplitList {;}}mm' on
+. line 7105.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \SIrange with arg. spec. 'ommm' on line 7116.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \SI with arg. spec. 'omom' on line 7127.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \sisetup with arg. spec. 'm' on line 7130.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \tablenum with arg. spec. 'om' on line 7142.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \si with arg. spec. 'om' on line 7153.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \siunitx_bookmark_num:w with arg. spec. 'om' on
+. line 7197.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \siunitx_bookmark_numrange:w with arg. spec. 'omm'
+. on line 7199.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \siunitx_bookmark_SI:w with arg. spec. 'omom' on
+. line 7201.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \siunitx_bookmark_SIlist:w with arg. spec. 'omm'
+. on line 7203.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \siunitx_bookmark_SIrange:w with arg. spec. 'ommm'
+. on line 7205.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining document command \siunitx_bookmark_si:w with arg. spec. 'om' on
+. line 7206.
+.................................................
+\g_ior_internal_ior=\read1
+
+(C:\Users\michagro\AppData\Roaming\MiKTeX\2.9\tex\latex\beamer\base\translator\translator.sty
+Package: translator 2010/06/12 ver 1.10
+
+(C:\Users\michagro\AppData\Roaming\MiKTeX\2.9\tex\latex\beamer\base\translator\translator-language-mappings.tex)))
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\subfig\subfig.sty"
+Package: subfig 2005/06/28 ver: 1.3 subfig package
+
+
+Package subfig Warning: Your document class has a bad definition
+ of \endfigure, most likely
+ \let\endfigure=\end@float
+ which has now been changed to
+ \def\endfigure{\end@float}
+ because otherwise subsequent changes to \end@float
+ (like done by several packages changing float behaviour)
+ can't take effect on \endfigure.
+ Please complain to your document class author.
+
+
+Package subfig Warning: Your document class has a bad definition
+ of \endtable, most likely
+ \let\endtable=\end@float
+ which has now been changed to
+ \def\endtable{\end@float}
+ because otherwise subsequent changes to \end@float
+ (like done by several packages changing float behaviour)
+ can't take effect on \endtable.
+ Please complain to your document class author.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\caption\caption.sty"
+Package: caption 2011/11/10 v3.2e Customizing captions (AR)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\caption\caption3.sty"
+Package: caption3 2011/11/01 v1.4a caption3 kernel (AR)
+\captionmargin=\dimen195
+\captionmargin@=\dimen196
+\captionwidth=\dimen197
+\caption@indent=\dimen198
+\caption@parindent=\dimen199
+\caption@hangindent=\dimen200
+\abovecaptionskip=\skip56
+\belowcaptionskip=\skip57
+Package caption Info: Unknown document class (or package),
+(caption)             standard defaults will be used.
+)
+
+Package caption Warning: Unsupported document class (or package) detected,
+(caption)                usage of the caption package is not recommended.
+See the caption package documentation for explanation.
+
+Package caption Info: \@makecaption = \long macro:#1#2-> \vskip 10pt \setbox \@tempboxa \hbox {\textbf {#1: #2}} \ifdim 
+\wd \@tempboxa >\hsize \textbf {#1: #2}\par \else \hbox to\hsize {\hfil \box \@tempboxa \hfil } \fi .
+\c@ContinuedFloat=\count284
+)
+\c@KVtest=\count285
+\sf@farskip=\skip58
+\sf@captopadj=\dimen201
+\sf@capskip=\skip59
+\sf@nearskip=\skip60
+\c@subfigure=\count286
+\c@subfigure@save=\count287
+\c@lofdepth=\count288
+\c@subtable=\count289
+\c@subtable@save=\count290
+\c@lotdepth=\count291
+\sf@top=\skip61
+\sf@bottom=\skip62
+) ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\hyperref\hyperref.sty"
+Package: hyperref 2011/10/01 v6.82j Hypertext links for LaTeX
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\hobsub-hyperref.sty"
+Package: hobsub-hyperref 2011/04/23 v1.4 Bundle oberdiek, subset hyperref (HO)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\hobsub-generic.sty"
+Package: hobsub-generic 2011/04/23 v1.4 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2011/04/23 v1.4 Subsetting bundle oberdiek (HO)
+Package hobsub Info: Skipping package `infwarerr' (already loaded).
+Package hobsub Info: Skipping package `ltxcmds' (already loaded).
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+Package hobsub Info: Skipping package `ifvtex' (already loaded).
+Package: intcalc 2007/09/27 v1.1 Expandable integer calculations (HO)
+Package hobsub Info: Skipping package `ifpdf' (already loaded).
+Package: etexcmds 2011/02/16 v1.5 Prefix for e-TeX command names (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+Package: kvsetkeys 2011/04/07 v1.13 Key value parser (HO)
+Package: kvdefinekeys 2011/04/07 v1.3 Defining keys (HO)
+Package: pdftexcmds 2011/04/22 v0.16 Utilities of pdfTeX for LuaTeX (HO)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+Package: pdfescape 2011/04/04 v1.12 Provides string conversions (HO)
+Package: bigintcalc 2011/01/30 v1.2 Expandable big integer calculations (HO)
+Package: bitset 2011/01/30 v1.1 Data type bit set (HO)
+Package: uniquecounter 2011/01/30 v1.2 Provides unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2010/09/02 v1.4 Let assignment for LaTeX macros (HO)
+Package: hopatch 2011/01/30 v1.0 Wrapper for package hooks (HO)
+Package: xcolor-patch 2011/01/30 xcolor patch
+Package: atveryend 2011/04/23 v1.7 Hooks at very end of document (HO)
+Package: atbegshi 2011/01/30 v1.15 At begin shipout hook (HO)
+Package: refcount 2010/12/01 v3.2 Data extraction from references (HO)
+Package: hycolor 2011/01/30 v1.7 Color options of hyperref/bookmark (HO)
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty"
+Package: kvoptions 2010/12/23 v3.10 Keyval support for LaTeX options (HO)
+)
+Normal \dimen register pool exhausted, switching to extended pool.
+\@linkdim=\dimen256
+\Hy@linkcounter=\count292
+\Hy@pagecounter=\count293
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\hyperref\pd1enc.def"
+File: pd1enc.def 2011/10/01 v6.82j Hyperref: PDFDocEncoding definition (HO)
+)
+\Hy@SavedSpaceFactor=\count294
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\00miktex\hyperref.cfg"
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Option `hypertexnames' set `true' on input line 3925.
+Package hyperref Info: Hyper figures OFF on input line 4046.
+Package hyperref Info: Link nesting OFF on input line 4051.
+Package hyperref Info: Hyper index ON on input line 4054.
+Package hyperref Info: Plain pages OFF on input line 4061.
+Package hyperref Info: Backreferencing OFF on input line 4066.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4284.
+\c@Hy@tempcnt=\count295
+LaTeX Info: Redefining \url on input line 4637.
+\Fld@menulength=\count296
+\Field@Width=\dimen257
+\Fld@charsize=\dimen258
+Package hyperref Info: Hyper figures OFF on input line 5723.
+Package hyperref Info: Link nesting OFF on input line 5728.
+Package hyperref Info: Hyper index ON on input line 5731.
+Package hyperref Info: backreferencing OFF on input line 5738.
+Package hyperref Info: Link coloring OFF on input line 5743.
+Package hyperref Info: Link coloring with OCG OFF on input line 5748.
+Package hyperref Info: PDF/A mode OFF on input line 5753.
+LaTeX Info: Redefining \ref on input line 5793.
+LaTeX Info: Redefining \pageref on input line 5797.
+\Hy@abspage=\count297
+\c@Item=\count298
+\c@Hfootnote=\count299
+)
+
+Package hyperref Message: Driver: hpdftex.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\hyperref\hpdftex.def"
+File: hpdftex.def 2011/10/01 v6.82j Hyperref driver for pdfTeX
+\Fld@listcount=\count300
+\c@bookmark@seq@number=\count301
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\oberdiek\rerunfilecheck.sty"
+Package: rerunfilecheck 2011/04/15 v1.7 Rerun checks for auxiliary files (HO)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 282.
+)
+\Hy@SectionHShift=\skip63
+)
+\c@definition=\count302
+ (S:\latte\VLDB2012Paper\LaTeX\vldb2013.aux)
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 20.
+LaTeX Font Info:    ... okay on input line 20.
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: letterpaper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: twoside 
+* h-part:(L,W,R)=(92.14519pt, 430.00462pt, 92.14519pt)
+* v-part:(T,H,B)=(95.39737pt, 556.47656pt, 143.09605pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=504.0pt
+* \textheight=666.0pt
+* \oddsidemargin=-18.26999pt
+* \evensidemargin=-18.26999pt
+* \topmargin=-55.26999pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=0.0pt
+* \marginparsep=11.0pt
+* \columnsep=24.0pt
+* \skip\footins=8.1pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumntrue
+* \@twosidetrue
+* \@mparswitchtrue
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count303
+\scratchdimen=\dimen259
+\scratchbox=\box48
+\nofMPsegments=\count304
+\nofMParguments=\count305
+\everyMPshowfont=\toks40
+\MPscratchCnt=\count306
+\MPscratchDim=\dimen260
+\MPnumerator=\count307
+\makeMPintoPDFobject=\count308
+\everyMPtoPDFconversion=\toks41
+)
+(C:\Users\michagro\AppData\Roaming\MiKTeX\2.9\tex\latex\beamer\base\translator\dicts\translator-basic-dictionary\transla
+tor-basic-dictionary-English.dict
+Dictionary: translator-basic-dictionary, Language: English 
+)
+(C:\Users\michagro\AppData\Roaming\MiKTeX\2.9\tex\latex\siunitx\config\siunitx-abbreviations.cfg
+File: siunitx-abbreviations.cfg 2012/05/03 v2.5c siunitx: Abbreviated units
+)
+(C:\Users\michagro\AppData\Roaming\MiKTeX\2.9\tex\latex\siunitx\config\siunitx-binary.cfg
+File: siunitx-binary.cfg 2012/05/03 v2.5c siunitx: Binary units
+)
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: subfig package v1.3 is loaded.
+Package caption Info: hyperref package is loaded.
+Package caption Info: End \AtBeginDocument code.
+\AtBeginShipoutBox=\box49
+Package hyperref Info: Link coloring OFF on input line 20.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\hyperref\nameref.sty"
+Package: nameref 2010/04/30 v2.40 Cross-referencing by name of section
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\gettitlestring.sty"
+Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
+)
+\c@section@level=\count309
+)
+LaTeX Info: Redefining \ref on input line 20.
+LaTeX Info: Redefining \pageref on input line 20.
+LaTeX Info: Redefining \nameref on input line 20.
+
+(S:\latte\VLDB2012Paper\LaTeX\vldb2013.out) (S:\latte\VLDB2012Paper\LaTeX\vldb2013.out)
+\@outlinefile=\write3
+\c_siunitx_mathsf_int=\count310
+LaTeX Font Info:    Try loading font information for U+msa on input line 20.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
+File: umsa.fd 2009/06/22 v3.00 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 20.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
+File: umsb.fd 2009/06/22 v3.00 AMS symbols B
+)
+LaTeX Font Info:    Try loading font information for U+lasy on input line 20.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\ulasy.fd"
+File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
+)
+\c_siunitx_mathtt_int=\count311
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 41.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\omscmr.fd"
+File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <9> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 41.
+
+Overfull \hbox (11.69206pt too wide) in paragraph at lines 49--50
+\OT1/cmr/m/n/9 ``cur-rent'' in-for-ma-tion about dy-namic, un-bounded data streams
+ []
+
+Missing character: There is no ‚ in font cmr9!
+Missing character: There is no Ä in font cmr9!
+Missing character: There is no ì in font cmr9!
+
+Overfull \hbox (5.3171pt too wide) in paragraph at lines 63--64
+[]\OT1/cmr/m/n/9 We have im-ple-mented a ver-sion of fra-mes in Ni-a-garaST [[]18[]],
+ []
+
+[1{C:/Users/michagro/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}
+
+
+]
+Missing character: There is no ‚ in font cmr9!
+Missing character: There is no Ä in font cmr9!
+Missing character: There is no ì in font cmr9!
+Missing character: There is no ‚ in font cmr9!
+Missing character: There is no Ä in font cmr9!
+Missing character: There is no ì in font cmr9!
+Missing character: There is no ‚ in font cmr9!
+Missing character: There is no Ä in font cmr9!
+Missing character: There is no ì in font cmr9!
+ [2]
+Missing character: There is no ‚ in font cmr9!
+Missing character: There is no Ä in font cmr9!
+Missing character: There is no ì in font cmr9!
+
+Overfull \hbox (7.75902pt too wide) in paragraph at lines 122--123
+[]\OT1/cmr/m/n/9 start/minimal/maximal all seem un-de-fined by pred-
+ []
+
+Missing character: There is no ‚ in font cmr9!
+Missing character: There is no Ä in font cmr9!
+Missing character: There is no ô in font cmr9!
+Missing character: There is no ‚ in font cmr9!
+Missing character: There is no Ä in font cmr9!
+Missing character: There is no ú in font cmr9!
+Missing character: There is no ‚ in font cmr9!
+Missing character: There is no Ä in font cmr9!
+Missing character: There is no ù in font cmr9!
+
+Overfull \hbox (2.96062pt too wide) in paragraph at lines 132--133
+[]\OT1/cmr/m/it/9 Example 1--Vehicle-Traffic Mon-i-tor-ing: \OT1/cmr/m/n/9 In some cases, win-
+ []
+
+[3]
+Overfull \hbox (2.05846pt too wide) in paragraph at lines 162--163
+[]\OT1/cmr/m/n/9 The \OT1/cmr/m/it/9 can-di-date fra-mes $\OML/cmm/m/it/9 F[]\OT1/cmr/m/n/9 (\OML/cmm/m/it/9 S\OT1/cmr/m
+/n/9 )$ of a data stream
+ []
+
+<figures/framing-schemes.pdf, id=134, 246.38449pt x 138.26656pt>
+File: figures/framing-schemes.pdf Graphic file (type pdf)
+ <use figures/framing-schemes.pdf>
+Package pdftex.def Info: figures/framing-schemes.pdf used on input line 179.
+(pdftex.def)             Requested size: 215.99854pt x 121.2171pt.
+
+Overfull \hbox (4.4265pt too wide) in paragraph at lines 202--203
+[]\OT1/cmr/bx/n/9 Boundary Fra-mes: \OT1/cmr/m/n/9 Bound-ary fra-mes seg-ment the stream
+ []
+
+Missing character: There is no ‚ in font cmr9!
+Missing character: There is no Å in font cmr9!
+Missing character: There is no ° in font cmr9!
+Missing character: There is no ‚ in font cmr9!
+Missing character: There is no Å in font cmr9!
+Missing character: There is no ° in font cmr9!
+[4 <S:/latte/VLDB2012Paper/LaTeX/figures/framing-schemes.pdf>]
+Overfull \hbox (4.07489pt too wide) in paragraph at lines 225--226
+\OT1/cmr/m/n/9 can-not prop-erly con-tain a min-i-mal/maximal frame from
+ []
+
+
+Overfull \hbox (13.31061pt too wide) in paragraph at lines 234--235
+[]\OT1/cmr/m/n/9 A \OT1/cmr/m/it/9 fram-ing func-tion $\OML/cmm/m/it/9 f\OT1/cmr/m/n/9 (\OML/cmm/m/it/9 F[]; C[]; t[]\OT
+1/cmr/m/n/9 ) \OMS/cmsy/m/n/9 ! \OT1/cmr/m/n/9 (\OML/cmm/m/it/9 F[]; C[]\OT1/cmr/m/n/9 )$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 239--240
+
+ []
+
+<figures/tow2_cnv_original1000.jpg, id=152, 723.45282pt x 385.44pt>
+File: figures/tow2_cnv_original1000.jpg Graphic file (type jpg)
+ <use figures/tow2_cnv_original1000.jpg>
+Package pdftex.def Info: figures/tow2_cnv_original1000.jpg used on input line 277.
+(pdftex.def)             Requested size: 157.75378pt x 84.04425pt.
+
+<figures/tow2_cnv_windows1000.jpg, id=153, 723.45282pt x 403.5075pt>
+File: figures/tow2_cnv_windows1000.jpg Graphic file (type jpg)
+ <use figures/tow2_cnv_windows1000.jpg>
+Package pdftex.def Info: figures/tow2_cnv_windows1000.jpg used on input line 281.
+(pdftex.def)             Requested size: 157.75378pt x 87.98383pt.
+
+<figures/tow2_cnv_frames1000.jpg, id=154, 724.20563pt x 419.31656pt>
+File: figures/tow2_cnv_frames1000.jpg Graphic file (type jpg)
+ <use figures/tow2_cnv_frames1000.jpg>
+Package pdftex.def Info: figures/tow2_cnv_frames1000.jpg used on input line 285.
+(pdftex.def)             Requested size: 157.75378pt x 91.33498pt.
+
+<figures/datapointsInComputation.jpg, id=155, 481.8pt x 276.28218pt>
+File: figures/datapointsInComputation.jpg Graphic file (type jpg)
+ <use figures/datapointsInComputation.jpg>
+Package pdftex.def Info: figures/datapointsInComputation.jpg used on input line 292.
+(pdftex.def)             Requested size: 237.60132pt x 136.24788pt.
+
+<figures/histogram_tow06.jpg, id=156, 359.84438pt x 680.5425pt>
+File: figures/histogram_tow06.jpg Graphic file (type jpg)
+ <use figures/histogram_tow06.jpg>
+Package pdftex.def Info: figures/histogram_tow06.jpg used on input line 299.
+(pdftex.def)             Requested size: 237.60132pt x 449.36711pt.
+
+<figures/histogram_tow13.jpg, id=157, 367.3725pt x 684.30656pt>
+File: figures/histogram_tow13.jpg Graphic file (type jpg)
+ <use figures/histogram_tow13.jpg>
+Package pdftex.def Info: figures/histogram_tow13.jpg used on input line 306.
+(pdftex.def)             Requested size: 237.60132pt x 442.5908pt.
+
+<figures/tow04_results.jpg, id=158, 450.9347pt x 356.0803pt>
+File: figures/tow04_results.jpg Graphic file (type jpg)
+ <use figures/tow04_results.jpg>
+Package pdftex.def Info: figures/tow04_results.jpg used on input line 313.
+(pdftex.def)             Requested size: 237.60132pt x 187.62413pt.
+
+<figures/relativeErrorFramesOverWindows_6datasets.jpg, id=159, 481.8pt x 277.035pt>
+File: figures/relativeErrorFramesOverWindows_6datasets.jpg Graphic file (type jpg)
+
+<use figures/relativeErrorFramesOverWindows_6datasets.jpg>
+Package pdftex.def Info: figures/relativeErrorFramesOverWindows_6datasets.jpg used on input line 320.
+(pdftex.def)             Requested size: 237.60132pt x 136.61914pt.
+
+<figures/performance_analysis.jpg, id=160, 473.51906pt x 295.85532pt>
+File: figures/performance_analysis.jpg Graphic file (type jpg)
+ <use figures/performance_analysis.jpg>
+Package pdftex.def Info: figures/performance_analysis.jpg used on input line 327.
+(pdftex.def)             Requested size: 237.60132pt x 148.45096pt.
+Missing character: There is no ‚ in font cmr9!
+Missing character: There is no Ä in font cmr9!
+Missing character: There is no ô in font cmr9!
+
+(S:\latte\VLDB2012Paper\LaTeX\vldb2013.bbl
+
+Package balance Warning: You have called \balance in second column
+(balance)                Columns might not be balanced.
+
+[5 <S:/latte/VLDB2012Paper/LaTeX/figures/datapointsInComputation.jpg>]
+Underfull \vbox (badness 1248) has occurred while \output is active []
+
+ [6 <S:/latte/VLDB2012Paper/LaTeX/figures/tow2_cnv_original1000.jpg> <S:/latte/VLDB2012Paper/LaTeX/figures/tow2_cnv_wind
+ows1000.jpg> <S:/latte/VLDB2012Paper/LaTeX/figures/tow2_cnv_frames1000.jpg> <S:/latte/VLDB2012Paper/LaTeX/figures/histog
+ram_tow06.jpg>]
+Overfull \vbox (185.64249pt too high) has occurred while \output is active []
+
+ [7 <S:/latte/VLDB2012Paper/LaTeX/figures/tow04_results.jpg> <S:/latte/VLDB2012Paper/LaTeX/figures/relativeErrorFramesOv
+erWindows_6datasets.jpg> <S:/latte/VLDB2012Paper/LaTeX/figures/histogram_tow13.jpg> <S:/latte/VLDB2012Paper/LaTeX/figure
+s/performance_analysis.jpg>])
+Overfull \hbox (35.91695pt too wide) in paragraph at lines 375--376
+[]\OT1/cmr/m/n/9 Consider a se-quence $\OML/cmm/m/it/9 S$ \OT1/cmr/m/n/9 with el-e-ments of type $\OMS/cmsy/m/n/9 h\OML/
+cmm/m/it/9 Time; Temperature\OMS/cmsy/m/n/9 i$\OT1/cmr/m/n/9 : 
+ []
+
+
+Overfull \vbox (6.225pt too high) has occurred while \output is active []
+
+ [8]
+Overfull \hbox (6.11877pt too wide) in paragraph at lines 394--394
+[]\secfnt IMPLEMENTATION CON-SID-ER-A-TIONS
+ []
+
+<figures/missing-tuples.png, id=231, 526.96875pt x 74.52844pt>
+File: figures/missing-tuples.png Graphic file (type png)
+ <use figures/missing-tuples.png>
+Package pdftex.def Info: figures/missing-tuples.png used on input line 409.
+(pdftex.def)             Requested size: 237.60132pt x 33.60344pt.
+Missing character: There is no ‚ in font cmr9!
+Missing character: There is no Ä in font cmr9!
+Missing character: There is no î in font cmr9!
+Missing character: There is no ‚ in font cmr9!
+Missing character: There is no Ä in font cmr9!
+Missing character: There is no î in font cmr9!
+
+Overfull \vbox (0.82329pt too high) has occurred while \output is active []
+
+
+Overfull \vbox (1.17671pt too high) has occurred while \output is active []
+
+ [9 <S:/latte/VLDB2012Paper/LaTeX/figures/missing-tuples.png>]
+Overfull \hbox (5.0807pt too wide) in paragraph at lines 426--427
+\OT1/cmr/m/n/9 SASE+ [[]2[]], Cayuga [[]5[]] and AFAs [[]6[]]. Other pattern-matching
+ []
+
+
+Overfull \hbox (8.37361pt too wide) in paragraph at lines 430--430
+[]\secfnt NIAGARAST IM-PLE-MEN-TA-TION (CIDR) 
+ []
+
+
+LaTeX Warning: Reference `sec:considerations' on page 10 undefined on input line 441.
+
+Missing character: There is no ‚ in font cmtt9!
+Missing character: There is no Ä in font cmtt9!
+Missing character: There is no ì in font cmtt9!
+
+Overfull \vbox (0.875pt too high) has occurred while \output is active []
+
+ [10]
+<figures/eval-experiment-1.png, id=254, 413.29407pt x 270.25969pt>
+File: figures/eval-experiment-1.png Graphic file (type png)
+ <use figures/eval-experiment-1.png>
+Package pdftex.def Info: figures/eval-experiment-1.png used on input line 454.
+(pdftex.def)             Requested size: 237.60132pt x 155.37337pt.
+
+<figures/eval-fragments.png, id=261, 413.29407pt x 270.25969pt>
+File: figures/eval-fragments.png Graphic file (type png)
+ <use figures/eval-fragments.png>
+Package pdftex.def Info: figures/eval-fragments.png used on input line 485.
+(pdftex.def)             Requested size: 237.60132pt x 155.37337pt.
+
+Overfull \vbox (0.53824pt too high) has occurred while \output is active []
+
+ [11 <S:/latte/VLDB2012Paper/LaTeX/figures/eval-experiment-1.png> <S:/latte/VLDB2012Paper/LaTeX/figures/eval-fragments.p
+ng>]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 501.
+ [12]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 501.
+
+(S:\latte\VLDB2012Paper\LaTeX\vldb2013.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 501.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 501.
+Package rerunfilecheck Info: File `vldb2013.out' has not changed.
+(rerunfilecheck)             Checksum: 63CE0D419FE8D57D2277ABECED1D97E7;1393.
+
+
+LaTeX Warning: There were undefined references.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 15639 strings out of 494045
+ 301215 string characters out of 3145959
+ 360260 words of memory out of 3000000
+ 18608 multiletter control sequences out of 15000+200000
+ 26582 words of font info for 64 fonts, out of 3000000 for 9000
+ 716 hyphenation exceptions out of 8191
+ 44i,13n,46p,1298b,850s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Program Files (x86)/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}<C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/publ
+ic/amsfonts/cm/cmbx9.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Program Files
+ (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cmextra/cmex9.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/am
+sfonts/cm/cmmi6.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi9.pfb><C:/Program Files (x86)/
+MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr
+9.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy6.pfb><C:/Program Files (x86)/MiKTeX 2.9/fon
+ts/type1/public/amsfonts/cm/cmsy9.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti9.pfb><C:/Pr
+ogram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmtt9.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw
+/helvetic/uhvb8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvr8a.pfb><C:/Program Files (x86)/MiKT
+eX 2.9/fonts/type1/urw/times/utmb8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
+Output written on vldb2013.pdf (12 pages, 1074445 bytes).
+PDF statistics:
+ 345 PDF objects out of 1000 (max. 8388607)
+ 91 named destinations out of 1000 (max. 500000)
+ 258 words of extra memory for PDF output out of 10000 (max. 10000000)
+
